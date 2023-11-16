@@ -2,7 +2,6 @@
 
 import React, { useContext, useState } from 'react'
 import { Context } from '../context/SectionContext';
-import { NavHeight } from './Navbar2';
 import ReactMapGL, { Layer, Source } from 'react-map-gl';
 import type {CircleLayer, FillLayer, HeatmapLayer, LineLayer} from 'react-map-gl';
 import { FeatureCollection, Polygon } from 'geojson';

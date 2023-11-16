@@ -2,7 +2,6 @@ import type { Metadata } from 'next'
 import { Inter, Source_Sans_3, Roboto_Mono } from 'next/font/google'
 import './globals.css'
 import SectionContext from './[lang]/context/SectionContext'
-import Navbar from './[lang]/components/Navbar2'
 import mapboxgl from 'mapbox-gl';
 import { Locale } from '@/i18n.config'
 

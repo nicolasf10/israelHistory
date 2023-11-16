@@ -2,7 +2,6 @@
 
 import React, { useContext, useEffect, useRef, useState } from 'react'
 import { Context } from '../context/SectionContext';
-import { NavHeight } from './Navbar2';
 import type {CircleLayer, FillLayer, HeatmapLayer, LineLayer} from 'react-map-gl';
 import { FeatureCollection, Polygon } from 'geojson';
 import mapboxgl from 'mapbox-gl'; // eslint-disable-line import/no-webpack-loader-syntax
