@@ -150,33 +150,10 @@ export function createLayer(part : mapPartInterface, index : number, id : string
         
     }
 
-    // Drawing a 3d polygon
-
     return layer;
 }
 
-// export function createSymbolLayer(coordinate : number[], label : string) {
-//     var layer : mapLayerInterface = {
-//         'id': 'points',
-//         'type': 'symbol',
-//         'source': 'points',
-//         'layout': {
-//             'icon-image': 'custom-marker',
-//             // get the title name from the source's "title" property
-//             'text-field': ['get', 'title'],
-//             'text-font': [
-//             'Open Sans Semibold',
-//             'Arial Unicode MS Bold'
-//             ],
-//             'text-offset': [0, 1.25],
-//             'text-anchor': 'top'
-//         }
-//     }
-
-//     return layer;
-// }
-
-export function generateBounds(coordinates : number[][]) {
+export function generateBounds(coordinates : any) {
     let bounds = {
         'coordinates': [[0,0],[0,0]],
         'position': [0,0]
@@ -184,7 +161,8 @@ export function generateBounds(coordinates : number[][]) {
 
     let N = coordinates[0][1], S = coordinates[0][1], W = coordinates[0][0], E = coordinates[0][0];
 
-    coordinates.forEach((c) => {
+    coordinates.forEach((c : any) => {
+
         if (c[1] > N)
             N = c[1];
         if (c[1] < S)

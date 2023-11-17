@@ -24,32 +24,8 @@ export default function MapContainer({lang: lang, accessKey: accessKey} : {lang:
     const [isMapLoaded, setIsMapLoaded] = useState(false);
     const [showLegend, setShowLegend] = useState(false);
 
-    useEffect(() => {
-        if (map.current) return; // initialize map only once
-
-        map.current = new mapboxgl.Map({
-            container: mapContainer.current != undefined ? mapContainer.current : "",
-            style: 'mapbox://styles/theo-fuchs/clo495o1h00kz01qmb2q5dc5u',
-            center: [lng, lat],
-            zoom: zoom
-        });
-
-        // map.current.scrollZoom.disable();
-        
-        map.current.on('load', () => {
-            console.log("LOADED!");
-            allData.data.map((item : mapInterface, index : number) => {
-                item.parts.map((part: mapPartInterface, partIndex: number) => {
-                    map.current.addSource(`${item.id}-${partIndex}`, {
-                        type: 'geojson',
-                        // Use a URL for the value for the `data` property.
-                        // data: 'https://docs.mapbox.com/mapbox-gl-js/assets/earthquakes.geojson'
-                        data: {...part.source, id: `${item.id}-${partIndex}`}
-                    });
-                })
-            });
-
-            let coordinates : any = []
+    function handleMap() {
+        let coordinates : any = []
 
             allData.data[section - 1].parts.map((item : mapPartInterface, index : number) => {
                 if (item.source.geometry.type == 'Point' && (item.source.properties.place_name != undefined || item.source.properties.place_name != undefined)) {
@@ -81,19 +57,26 @@ export default function MapContainer({lang: lang, accessKey: accessKey} : {lang:
                 let layer : mapLayerInterface = createLayer(item, index, allData.data[section - 1].id, allData.data[section - 1].defaultColor);
                 map.current.addLayer(layer);
 
-                item.source.geometry.coordinates.map((coordinate, cIndex) => {
-                    console.log("thereee");
-                    console.log(typeof coordinate[0])
-                    if (typeof coordinate[0] === 'number')
-                        coordinates.push(coordinate);
-                    else if (typeof coordinate[0] === 'object') {
-                        console.log(typeof coordinate[0]);
-                        console.log('abovee')
-                        coordinate.map((subCoordinate, ccIndex) => {
-                            coordinates.push(subCoordinate);
-                        })
-                    }
-                })
+                // Checking for different structures of the coordinates field
+                console.log(item.source.geometry.coordinates, typeof item.source.geometry.coordinates[0], 'dig', section)
+
+                if (typeof item.source.geometry.coordinates[0] === 'number') {
+                    console.log('jenounoe')
+                    coordinates.push(item.source.geometry.coordinates)
+                } else {
+                    item.source.geometry.coordinates.map((coordinate, cIndex) => {
+                        console.log(typeof coordinate[0])
+                        if (typeof coordinate[0] === 'number')
+                            coordinates.push(coordinate);
+                        else if (typeof coordinate[0] === 'object'){
+                            console.log(coordinate[0]);
+                            console.log('abovee')
+                            coordinate.map((subCoordinate, ccIndex) => {
+                                coordinates.push(subCoordinate);
+                            })
+                        }
+                    })
+                }
 
                 console.log(layer);
             });
@@ -131,6 +114,8 @@ export default function MapContainer({lang: lang, accessKey: accessKey} : {lang:
             if (mapOverlay.current != undefined) {
                 const legend = mapOverlay.current as any;
                     
+                legend.innerHTML = '';
+
                 legend_data.layers.forEach((layer, i) => {
                     const color = legend_data.colors[i];
                     const item = document.createElement('div');
@@ -146,7 +131,35 @@ export default function MapContainer({lang: lang, accessKey: accessKey} : {lang:
                     legend.appendChild(item);
                 })
             }
+    }
+
+    useEffect(() => {
+        if (map.current) return; // initialize map only once
+
+        map.current = new mapboxgl.Map({
+            container: mapContainer.current != undefined ? mapContainer.current : "",
+            style: 'mapbox://styles/theo-fuchs/clo495o1h00kz01qmb2q5dc5u',
+            center: [lng, lat],
+            zoom: zoom
         });
+
+        // map.current.scrollZoom.disable();
+        
+        map.current.on('load', () => {
+            console.log("LOADED!");
+            allData.data.map((item : mapInterface, index : number) => {
+                item.parts.map((part: mapPartInterface, partIndex: number) => {
+                    map.current.addSource(`${item.id}-${partIndex}`, {
+                        type: 'geojson',
+                        // Use a URL for the value for the `data` property.
+                        // data: 'https://docs.mapbox.com/mapbox-gl-js/assets/earthquakes.geojson'
+                        data: {...part.source, id: `${item.id}-${partIndex}`}
+                    });
+                })
+            });
+
+            handleMap()
+        })
     });
 
     useEffect(() => {
@@ -162,108 +175,7 @@ export default function MapContainer({lang: lang, accessKey: accessKey} : {lang:
 
             map.current.flyTo(allData.data[section - 1].position);
 
-            allData.data[section - 1].parts.map((item : mapPartInterface, index : number) => {
-                if (item.source.geometry.type == 'Point' && (item.source.properties.place_name != undefined || item.source.properties.place_name != undefined)) {
-                    let name;
-                    if (item.source.properties.place_name != undefined)
-                        name = 'place_name'
-                    else
-                        name = 'name'
-
-                    let id = allData.data[section - 1].id;
-                    map.current.addLayer({
-                        'id': `${id}-${index}-point`,
-                        'type': 'symbol',
-                        'source': `${id}-${index}`,
-                        'layout': {
-                        'icon-image': 'custom-marker',
-                        // get the title name from the source's "title" property
-                        'text-field': ['get', name],
-                        'text-font': [
-                        'Open Sans Semibold',
-                        'Arial Unicode MS Bold'
-                        ],
-                        'text-offset': [0, 1.25],
-                        'text-anchor': 'top'
-                        }
-                    });
-                    console.log(`${id}-${index}`)
-                }
-                    // map.current.addLayer(createSymbolLayer(item.source.geometry.coordinates));
-                map.current.addLayer(createLayer(item, index, allData.data[section - 1].id, allData.data[section - 1].defaultColor));
-            });
-
-            let coordinates : any = []
-            allData.data[section - 1].parts.map((part, index) => {
-                part.source.geometry.coordinates.map((coordinate, cIndex) => {
-                    console.log("thereee");
-                    console.log(typeof coordinate[0])
-                    if (typeof coordinate[0] === 'number')
-                        coordinates.push(coordinate);
-                    else if (typeof coordinate[0] === 'object') {
-                        console.log(typeof coordinate[0]);
-                        console.log('abovee')
-                        coordinate.map((subCoordinate, ccIndex) => {
-                            coordinates.push(subCoordinate);
-                        })
-                    }
-                })
-            })
-            
-            console.log(coordinates);
-            console.log('before this')
-            let bounds = generateBounds(coordinates);
-
-            let animationOptions = {
-                pitch: 0,
-                bearing: 0,
-                duration: 1000
-            }
-
-            if (typeof allData.data[section - 1].position.bearing == 'number')
-                animationOptions.bearing = allData.data[section - 1].position.bearing as number
-            if (typeof allData.data[section - 1].position.pitch == 'number')
-                animationOptions.pitch = allData.data[section - 1].position.pitch as number
-
-            map.current.fitBounds(bounds.coordinates, animationOptions);
-
-            console.log(`section ${section} bounds: `)
-            console.log(bounds);
-            console.log(coordinates)
-            // map.current.flyTo(bounds.position);
-
-            // Removing previous legend
-
-
-            // Creating legend
-            let legend_data = generateLegends(allData.data[section - 1], lang);
-                
-                // create legend
-            if (mapOverlay.current != undefined) {
-                const legend = mapOverlay.current as HTMLElement;
-
-                legend.innerHTML = "";
-                
-                if (legend_data.layers.length > 0)
-                    setShowLegend(true);
-                else
-                    setShowLegend(false);
-                
-                legend_data.layers.forEach((layer, i) => {
-                    const color = legend_data.colors[i];
-                    const item = document.createElement('div');
-                    const key = document.createElement('span');
-                    item.className = 'legend-parent';
-                    key.className = 'legend-key';
-                    key.style.backgroundColor = color;
-                        
-                    const value = document.createElement('span');
-                    value.innerHTML = `${layer}`;
-                    item.appendChild(key);
-                    item.appendChild(value);
-                    legend.appendChild(item);
-                })
-            }
+            handleMap();
         }
     }, [section])
     

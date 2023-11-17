@@ -22,7 +22,7 @@ export default async function Home({
   return (
     <div className='relative'>
       <Navbar eras={navigation}/>
-      <MainSection lang="dog" sections={sections} accessKey={process.env.MAPBOX_ACCESS as string}/>
+      <MainSection lang={lang} sections={sections} accessKey={process.env.MAPBOX_ACCESS as string}/>
     </div>
   )
 }

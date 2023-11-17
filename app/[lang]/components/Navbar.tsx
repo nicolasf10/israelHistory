@@ -48,7 +48,7 @@ const Navbar = ({ eras: eras }: { eras: any }) => {
         <div className="flex mr-auto ml-4 items-center justify-start">
           <Image
             className="h-14 w-auto p-1"
-            src="/static/images/test.png"
+            src="/logo.png"
             width={500}
             height={282}
             alt="Picture of the author"

@@ -25,8 +25,6 @@ export default function MainSection({sections: sections, lang : lang, accessKey 
     // const [allData, setAllData] = useState(require('./mapData.json'));
 
     useEffect(() => {
-        console.log("kETTT");
-        console.log(accessKey)
         console.log(scrollYProgress)
     }, [scrollYProgress])
 
