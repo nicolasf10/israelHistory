@@ -15,7 +15,7 @@ export default function MapContainer({lang: lang, accessKey: accessKey} : {lang:
 
     mapboxgl.accessToken = accessKey;
 
-    const mapContainer = useRef(null);
+    const mapContainer : any = useRef(null);
     const map : any = useRef(null);
     const mapOverlay = useRef(null);
     const [lng, setLng] = useState(34.85);
@@ -146,6 +146,8 @@ export default function MapContainer({lang: lang, accessKey: accessKey} : {lang:
         // map.current.scrollZoom.disable();
         
         map.current.on('load', () => {
+            map.current.resize();
+
             console.log("LOADED!");
             allData.data.map((item : mapInterface, index : number) => {
                 item.parts.map((part: mapPartInterface, partIndex: number) => {

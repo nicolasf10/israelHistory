@@ -52,7 +52,7 @@ const Navbar = ({ eras: eras }: { eras: any }) => {
             src={logo}
             width={500}
             height={282}
-            alt="Picture of the author"
+            alt="Betar logo"
           />
         </div>
 
