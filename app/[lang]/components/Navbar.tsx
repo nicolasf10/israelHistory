@@ -7,6 +7,7 @@ import { Context } from '../context/SectionContext';
 import LanguagePicker from './LanguagePicker';
 import Link from 'next/link';
 import { setActive } from '@material-tailwind/react/components/Tabs/TabsContext';
+import logo from './logo.png'
 
 const Navbar = ({ eras: eras }: { eras: any }) => {
   const { era, setState } = useContext(Context);
@@ -48,7 +49,7 @@ const Navbar = ({ eras: eras }: { eras: any }) => {
         <div className="flex mr-auto ml-4 items-center justify-start">
           <Image
             className="h-14 w-auto p-1"
-            src="/logo.png"
+            src={logo}
             width={500}
             height={282}
             alt="Picture of the author"
