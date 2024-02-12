@@ -31,7 +31,7 @@ export default function MainSection({sections: sections, lang : lang, accessKey 
     return (
         <div className='relative top-20 left-0'>
             <motion.div
-                className="progress-bar z-50"
+                className="progress-bar z-50 hidden md:block"
                 style={{ scaleY: scrollYProgress }}
             />
             <main className='w-screen relative'>
