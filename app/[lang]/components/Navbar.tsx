@@ -47,13 +47,14 @@ const Navbar = ({ eras: eras }: { eras: any }) => {
     <nav className="font-roboto bg-gray-800 fixed top-0 w-full h-20 items-center justify-between flex z-50">
       {/* <div className="container mx-0 flex items-center justify-end outline-white"> */}
         <div className="flex mr-auto ml-4 items-center justify-start">
-          <Image
+          {/* <Image
             className="h-14 w-auto p-1"
             src={logo}
             width={500}
             height={282}
             alt="Betar logo"
-          />
+          /> */}
+          <h1 className="text-white text-md md:text-xl font-bold font-libre">Historical Maps of the Land of Israel</h1>
         </div>
 
         <div className="hidden md:flex mr-4 items-center justify-self-end space-x-4">
@@ -94,7 +95,7 @@ const Navbar = ({ eras: eras }: { eras: any }) => {
           <LanguagePicker/>
         </div>
 
-        <div className="md:hidden">
+        <div className="md:hidden flex">
         <LanguagePicker/>
           <button onClick={toggleNavbar} className="text-white mx-4">
             <svg
