@@ -11,7 +11,6 @@ const roboto = Roboto_Mono({
   variable: '--font-roboto',
 });
 
-
 export default async function Home({
   params: { lang }
 }: {
