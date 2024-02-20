@@ -4,9 +4,9 @@ import './globals.css'
 import SectionContext from './[lang]/context/SectionContext'
 import mapboxgl from 'mapbox-gl';
 import { Locale } from '@/i18n.config'
-import ReactGA from 'react-ga';
+//import ReactGA from 'react-ga';
 // Initialize React Ga with your tracking ID
-ReactGA.initialize('G-Y7YZ9GVHMB');
+//ReactGA.initialize('G-Y7YZ9GVHMB');
 
 const inter = Inter({ subsets: ['latin'] });
 const roboto = Roboto_Mono({
