@@ -147,7 +147,7 @@ export function createLayer(part : mapPartInterface, index : number, id : string
 
         layer.paint['circle-stroke-color'] = default_stroke_color;
         layer.paint['circle-stroke-width'] = default_stroke_width;
-        
+
     }
 
     return layer;
@@ -206,7 +206,7 @@ export const easingFunctions = {
     easeOutBounce: function (t : any) {
     const n1 = 7.5625;
     const d1 = 2.75;
-     
+
     if (t < 1 / d1) {
     return n1 * t * t;
     } else if (t < 2 / d1) {
@@ -229,7 +229,7 @@ export function generateLegends(section : mapInterface, lang : string) {
         layers : [],
         colors : []
     };
-    
+
     section.parts.map((part, partIndex) => {
         if (part.source.caption) {
             let caption = part.source.caption as any;
@@ -245,6 +245,17 @@ export function generateLegends(section : mapInterface, lang : string) {
 
                 legend.colors.push(color);
             }
+        } else if (part.source.properties.name) {
+            legend.layers.push(part.source.properties.name);
+
+            let color = lineColor('');
+
+            if (part.source.properties.color)
+                color = part.source.properties.color;
+            else if (part.source.properties.bgColor)
+                color = part.source.properties.bgColor;
+
+            legend.colors.push(color);
         }
     })
 

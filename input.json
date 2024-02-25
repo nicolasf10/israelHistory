@@ -1,0 +1,98 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "mapbox_id": "dXJuOm1ieHBsYzpJc2M",
+      "wikidata": "Q1049",
+      "short_code": "sd",
+      "place_name": "Sudan"
+    },
+    "geometry": {
+      "coordinates": [
+        30.049948,
+        13.831539
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "mapbox_id": "dXJuOm1ieHBsYzpJbWs",
+      "wikidata": "Q801",
+      "short_code": "il",
+      "place_name": "Israel"
+    },
+    "geometry": {
+      "coordinates": [
+        34.841998,
+        31.84726
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "mapbox_id": "dXJuOm1ieHBsYzpJaGc",
+      "wikidata": "Q398",
+      "short_code": "bh",
+      "place_name": "Bahrain"
+    },
+    "geometry": {
+      "coordinates": [
+        50.559643,
+        26.022406
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "mapbox_id": "dXJuOm1ieHBsYzpJZ00",
+      "wikidata": "Q878",
+      "short_code": "ae",
+      "place_name": "United Arab Emirates"
+    },
+    "geometry": {
+      "coordinates": [
+        54.256172,
+        23.852059
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "mapbox_id": "dXJuOm1ieHBsYzpJb3M",
+      "wikidata": "Q1028",
+      "short_code": "ma",
+      "place_name": "Morocco"
+    },
+    "geometry": {
+      "coordinates": [
+        -6.017072,
+        32.350751
+      ],
+      "type": "Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "mapbox_id": "dXJuOm1ieHBsYzpJaGc",
+      "wikidata": "Q398",
+      "short_code": "bh",
+      "place_name": "Bahrain"
+    },
+    "geometry": {
+      "coordinates": [
+        50.559643,
+        26.022406
+      ],
+      "type": "Point"
+    }
+  }
+]

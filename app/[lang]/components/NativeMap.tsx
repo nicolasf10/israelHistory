@@ -9,6 +9,42 @@ import { isMap } from 'util/types';
 import { allDataInterface, createLayer, easingFunctions, generateBounds, generateLegends, mapInterface, mapLayerInterface, mapPartInterface } from '@/app/mapHelpers';
 import { env } from 'node:process';
 
+// Colors
+// 1 #A8CFFF
+// 2 #ff0c0c
+
+// backgrounds
+// 1 #354a64
+// 2 #88643c
+// 3 #3c8864
+// 4 #643c88
+// 5 #4c883c
+// 6 #88763c
+// 7 #3c8888
+// 8 #883c4c
+// 9 #3c4c88
+// 10 #8c3c88
+// 11 #8c3c4c
+// 12 #8c8c3c
+// 13 #3c8c8c
+// 14 #d15536
+// 15 #36d155
+// 16 #3b81fa
+
+
+// lines
+// 1 #ff0c0c
+// 2 #ede554
+// 3 #6b87ca
+
+// points
+// 1 #0cff8e
+// 2 #0ce7ff
+// 3 #d169f7
+
+// ideas
+// 1 - add the number of Jews pre and post in map 32
+
 export default function MapContainer({lang: lang, accessKey: accessKey} : {lang: string, accessKey : string}) {
     const { section, setState } = useContext(Context);
     const [allData, setAllData] = useState(require('./mapData.json') as allDataInterface);
@@ -104,7 +140,7 @@ export default function MapContainer({lang: lang, accessKey: accessKey} : {lang:
             // Adding captions
             // define layer names
             let legend_data = generateLegends(allData.data[section - 1], lang);
-                
+
             // create legend
             if (legend_data.layers.length > 0)
                     setShowLegend(true);
@@ -113,7 +149,7 @@ export default function MapContainer({lang: lang, accessKey: accessKey} : {lang:
 
             if (mapOverlay.current != undefined) {
                 const legend = mapOverlay.current as any;
-                    
+
                 legend.innerHTML = '';
 
                 legend_data.layers.forEach((layer, i) => {
@@ -123,7 +159,7 @@ export default function MapContainer({lang: lang, accessKey: accessKey} : {lang:
                     item.className = 'legend-parent'
                     key.className = 'legend-key';
                     key.style.backgroundColor = color;
-                        
+
                     const value = document.createElement('span');
                     value.innerHTML = `${layer}`;
                     item.appendChild(key);
@@ -144,7 +180,7 @@ export default function MapContainer({lang: lang, accessKey: accessKey} : {lang:
         });
 
         // map.current.scrollZoom.disable();
-        
+
         map.current.on('load', () => {
             map.current.resize();
 
@@ -172,7 +208,7 @@ export default function MapContainer({lang: lang, accessKey: accessKey} : {lang:
                     if (map.current.getLayer(`${item.id}-${partIndex}`)) map.current.removeLayer(`${item.id}-${partIndex}`);
                     if (map.current.getLayer(`${item.id}-${partIndex}-point`)) map.current.removeLayer(`${item.id}-${partIndex}-point`);
                 })
-                
+
             });
 
             map.current.flyTo(allData.data[section - 1].position);
@@ -180,7 +216,7 @@ export default function MapContainer({lang: lang, accessKey: accessKey} : {lang:
             handleMap();
         }
     }, [section])
-    
+
     return (
         <div id="map-container" className='bg-sky-100s fixed top-20 z-0 left-0 md:right-0 md:left-auto h-screen md:w-3/5 w-screen'>
             <div style={{height: '100%'}} ref={mapContainer} className="map-container" />
