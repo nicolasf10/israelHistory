@@ -10,10 +10,10 @@ function classNames(...classes : any) {
 export default function LanguagePicker() {
 
     const languages = [
-        {
-            'code': 'en',
-            'name': 'English'
-        },
+        // {
+        //     'code': 'en',
+        //     'name': 'English'
+        // },
         {
             'code': 'pt',
             'name': 'Português'

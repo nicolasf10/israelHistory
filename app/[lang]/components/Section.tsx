@@ -16,18 +16,18 @@ const Section = ({data, maxId, scrollProgress} : {data: SectionInterface, maxId:
 
     const checkIsInViewport = () => {
       if (!elementRef.current) return;
-      
+
       const sectionElement = sectionRef.current;
       const sectionRect = (sectionElement as HTMLDivElement).getBoundingClientRect();
 
       const element = elementRef.current;
       const elementRect = element.getBoundingClientRect();
-  
+
       // Calculate the threshold (50px from the bottom)
       const threshold = 500;
       const lg_threshold = 100;
 
-  
+
       // Check if the element is partially in view (except the bottom 50px)
       // if (data.id === 1) console.log(scrollProgress.get())
       if (
@@ -36,7 +36,7 @@ const Section = ({data, maxId, scrollProgress} : {data: SectionInterface, maxId:
             ||
             (data.id === maxId && sectionRect.bottom <= window.innerHeight + 100))
           &&
-          (data.id != 2 || scrollProgress.get() > 0.04)
+          (data.id != 200 || scrollProgress.get() > 0.04)
           )
           ||
           (data.id == 1 && scrollProgress.get() <= 0.04)
@@ -69,19 +69,19 @@ const Section = ({data, maxId, scrollProgress} : {data: SectionInterface, maxId:
           sectionRef.current.style.marginBottom = 'auto';
       }
       }
-  
+
     useEffect(() => {
       checkIsInViewport(); // Check on initial load
-  
+
       // Attach an event listener to check when the user scrolls
       window.addEventListener('scroll', checkIsInViewport);
-  
+
       // Trigger the check when the component is mounted
       checkIsInViewport();
 
       window.addEventListener('resize', handleResize);
       handleResize();
-      
+
       return () => {
         window.removeEventListener('resize', handleResize);
         // Clean up the event listener when the component unmounts
@@ -97,7 +97,7 @@ const Section = ({data, maxId, scrollProgress} : {data: SectionInterface, maxId:
         }
       }, [section, controls]);
 
-  
+
     return (
         <motion.div
             initial={{ opacity: 0, y: 30, x: -30 }}

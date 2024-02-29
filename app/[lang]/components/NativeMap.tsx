@@ -36,6 +36,10 @@ import { env } from 'node:process';
 // 1 #ff0c0c
 // 2 #ede554
 // 3 #6b87ca
+// 4 #ff650c
+// 5 #2860ed
+// 6 #fff23f
+// 7 #148d31
 
 // points
 // 1 #0cff8e

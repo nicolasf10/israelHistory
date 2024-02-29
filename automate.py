@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import json
 
 # Define the colors for lines
@@ -86,9 +87,22 @@ def process_feature(feature, color_index):
         source["caption"] = caption
 
     # if attribute "Area" is in properties, add caption with the area
-    if 'name' in properties:
-        en_caption = properties['name']
-        pt_caption = properties['name']
+    if 'name' in properties or 'israel_annexation' in properties or 'palestine_annexation' in properties:
+        if 'israel_annexation' in properties:
+            properties['name'] = 'israel_annexation'
+        elif 'palestine_annexation' in properties:
+            properties['name'] = 'palestine_annexation'
+        else:
+            en_caption = properties['name']
+            pt_caption = properties['name']
+
+        if 'israel_annexation' in properties:
+            en_caption = 'Area to be annexed to Israel'
+            pt_caption = 'Área a ser anexada a Israel'
+        elif 'palestine_annexation' in properties:
+            en_caption = 'Area to be annexed to Palestine'
+            pt_caption = 'Área a ser anexada a Palestina'
+
         source["caption"] = {
             "en": en_caption,
             "pt": pt_caption
