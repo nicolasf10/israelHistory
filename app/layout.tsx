@@ -47,6 +47,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <link href='https://api.mapbox.com/mapbox-gl-js/v2.8.1/mapbox-gl.css' rel='stylesheet' />
+        <title>Historical Maps of the Land of Israel</title>
       </head>
       <body className={`${source_sans.className} ${roboto.className}`}>
         <SectionContext>
