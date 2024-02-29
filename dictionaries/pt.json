@@ -10,45 +10,146 @@
           "era": 1,
           "sections": [
             {
-              "era": 1,
-              "id": 1,
+              "date": "1765 AEC — 1523 AEC",
               "title": "Era dos Patriarcas",
               "content": [
-                "Segundo relatos bíblicos, a história judaica começou há aproximadamente 4.000 anos ( século XVII a.e.c.) com os patriarcas - Abrãao, seu filho Isaac e seu neto Jacó. Documentos descobertos na Mesopotâmia, que remontam aos anos 2000-1500 a.e.c. corroboram aspectos de seu estilo de vida nômade, descrito no Tanach. No livro Bereshit (12:1) é relatado como Abraham foi chamado desde Ur dos caldeus à Canaã, para formar um novo povo com a crença em um Deus. Abraham chegou à terra de Canaã com Sara, sua esposa, que era estéril e não podia ter filhos, e permitiu que Abraham o tivesse com sua escrava, Hagar, para que a semente de seu esposo continuasse. Assim,  tiveram um filho chamado Ismael. Mas este filho não foi o único que teve Abraham. Aos seus 100 anos e aos 90 de Sarah, esta engravidou e teve um filho homem chamado Itzhak",
-                "Quando Itzhak cresceu, teve como cônjuge uma mulher chamada Rivka, com quem teve dois filhos gêmeos, Esaú e Yaakov. O segundo foi bendito para continuar com a linhagem da família, enquanto o primeiro seria o pai de outros povos. No mapa, vemos a jornada do primeiro patriarca, Abraão, de Ur, na Caldeia, até a terra de Canaã.\n"
+                "Segundo relatos bíblicos, a história judaica começou há aproximadamente 4.000 anos (século XVII a.e.c.) com os patriarcas - Abrãao, seu filho Isaac e seu neto Jacó. Documentos descobertos na Mesopotâmia, que remontam aos anos 2000-1500 a.e.c. corroboram aspectos de seu estilo de vida nômade, descrito no Tanach.",
+                "No livro Bereshit (12:1) é relatado como Abraham foi chamado desde Ur dos caldeus à Canaã, para formar um novo povo com a crença em um Deus. Abraham chegou à terra de Canaã com Sara, sua esposa, que era estéril e não podia ter filhos, e permitiu que Abraham o tivesse com sua escrava, Hagar, para que a semente de seu esposo continuasse. Assim,  tiveram um filho chamado Ismael. Mas este filho não foi o único que teve Abraham. Aos seus 100 anos e aos 90 de Sarah, esta engravidou e teve um filho homem chamado Itzhak.",
+                "Quando Itzhak cresceu, teve como cônjuge uma mulher chamada Rivka, com quem teve dois filhos gêmeos, Esaú e Yaakov. O segundo foi bendito para continuar com a linhagem da família, enquanto o primeiro seria o pai de outros povos. No mapa, vemos a jornada do primeiro patriarca, Abraão, de Ur, na Caldeia, até a terra de Canaã."
               ],
-              "date": "1765 AC — 1523 AC"
+              "id": 1,
+              "era": 1
             },
             {
-              "era": 1,
-              "id": 2,
-              "title": "Escravidão no Egíto",
+              "date": "1523 AEC — 1313 AEC",
+              "title": "Era de escravidão do povo judeu no Egito. Terra de Israel sob domínio egipcío.",
               "content": [
-                "Jacó teve duas esposas, Lea e Rachel, e junto com elas e mais duas concubinas. Jacó teve doze filhos homens e uma filha chamada Dina. Quando a fome assolou Canaã, Jacó, agora já renomeado como Israel, seus doze filhos e suas famílias se estableceram no Egito, onde seus descendentes foram submetidos à escravidão e obrigados a realizar trabalhos forçados.",
-                "Existem duas versões dentro da Torá que mencionam os anos em que estiveram os filhos de Israel no Egito. Segundo o relato do Êxodo, 430 anos esteve o povo escravizado (12:40), e, segundo o relato de Gênesis, foram 400 anos de escravidão (15:13). ",
-                "De igual maneira, foi no Egito a primeira vez que os filhos de Israel foram chamados \"povo\". Diz-se que chegaram 70 pessoas com Jacó, e, depois de 4 séculos, saíram 600 mil (Êxodo 12:37). "
+                "Jacó teve duas esposas, Lea e Rachel, e junto com elas e mais duas concubinas. Jacó teve doze filhos homens e uma filha chamada Diná. Quando a fome assolou Canaã, Jacó, agora já renomeado como Israel, seus doze filhos e suas famílias se estableceram no Egito, onde seus descendentes foram submetidos à escravidão e obrigados a realizar trabalhos forçados.",
+                "Existem duas versões dentro da Torá que mencionam os anos em que estiveram os filhos de Israel no Egito. Segundo o relato do Êxodo, 430 anos esteve o povo escravizado (12:40), e, segundo o relato de Gênesis, foram 400 anos de escravidão (15:13).",
+                "De igual maneira, foi no Egito a primeira vez que os filhos de Israel foram chamados \"povo\". Diz-se que chegaram 70 pessoas junto a Jacó, e, depois de 4 séculos, saíram 600 mil (Êxodo 12:37)."
               ],
-              "date": "1523 BC - 1313 BC"
+              "id": 2,
+              "era": 1
             },
             {
-              "era": 1,
-              "id": 3,
-              "title": "O Êxodo",
+              "date": "1313 AEC - 1273 AEC",
+              "title": "O Êxodo no Egito (a rota dos 40 anos no deserto).",
               "content": [
                 "Depois de aproximadamente 400 anos de escravidão no Egito, o povo de Israel foi conduzido à liberdade por Moshe, quem, de acordo com narrativa do Tanach, foi escolhido por Deus para tirar seu povo do Egito e retornar à Terra de Israel, prometida a seus antepassados.",
-                "Durante 40 anos eles caminharam pelo deserto do Sinai, onde se formaram como nação e receberam a Torá que incluiu os Dez Mandamentos e deu forma e conteúdo a sua fé monoteísta. O êxodo do Egito (1300 a.e.c.) deixou uma marca inapagável na memória nacional do povo judeu e passou a ser o símbolo da liberdade e da redenção. Ano a ano em Pessach, Shavuot e Sucot, se comemoram os eventos ocorridos neste tempo.                 "
+                "Durante 40 anos eles caminharam pelo deserto do Sinai, onde se formaram como nação e receberam a Torá que incluiu os Dez Mandamentos e deu forma e conteúdo a sua fé monoteísta. O êxodo do Egito (1300 a.e.c.) deixou uma marca inapagável na memória nacional do povo judeu e passou a ser o símbolo da liberdade e da redenção. Anualmente, nas festividades judaicas de Pessach, Shavuot e Sucot, comemoram-se os eventos ocorridos nesse período."
               ],
-              "date": "1313 BC - 1273 BC"
+              "id": 3,
+              "era": 1
             },
             {
-              "era": 1,
-              "id": 4,
-              "title": "A Primeira Conquista de Yehoshua",
+              "date": "1273 AEC - 924 AEC",
+              "title": "Período de juízes e reis na Terra de Israel.",
               "content": [
-                "Depois da morte de Moshe, tomou a liderança do povo Yeoshua bin-Nun. Este, diferentemente de Moshe, teve um papel, dentro de todos os outros, de líder militar. Sob seu comando o povo teve que conquistar a terra, na qual habitavam outros povos. ",
-                "O primeiro território conquistado foi a cidade de Jericho, que se acredita ser a cidade mais antiga do mundo. Foram anos de guerra até que o povo de Israel conquistou grande parte da terra de Israel, e com o tempo, foram se transformando em camponeses e artesãos, alcançando um certo nível de consolidação social e econômica. Períodos de relativa paz foram interrompidos por tempos de guerra, em os que o povo se agrupou atrás de líderes conhecidos como “juízes”, escolhidos por suas capacidades políticas e militares, assim como por sua habilidade de liderança. Curiosidade: Jericho foi também o primeiro território a ser dado aos palestinos por Israel como parte dos Acordos de Oslo em 1994.                "
+                "Depois da morte de Moisés, tomou a liderança do povo Josué (Yehoshua bin-Nun), que, diferentemente de Moisés, teve um papel, dentro de todos os outros, de líder militar. Sob seu comando o povo teve que conquistar a terra, na qual habitavam outros povos.",
+                "O primeiro território conquistado foi a cidade de Jericó, que se acredita ser a cidade mais antiga do mundo. Foram anos de guerra até que o povo de Israel conquistou grande parte da Terra de Israel, e com o tempo, foram se transformando em camponeses e artesãos, alcançando um certo nível de consolidação social e econômica.",
+                "Períodos de relativa paz foram interrompidos por tempos de guerra, em os que o povo se agrupou atrás de líderes conhecidos como “juízes”, escolhidos por suas capacidades políticas e militares, assim como por sua habilidade de liderança. Curiosidade: Jericó foi também o primeiro território a ser dado aos palestinos por Israel como parte dos Acordos de Oslo em 1994."
               ],
-              "date": "1273 BC - 924 BC"
+              "id": 4,
+              "era": 1
+            },
+            {
+              "date": "950 AC",
+              "title": "A divisão das 12 tribos",
+              "content": [
+                "Após a conquista definitiva do território, Josué (Yehoshua), antes de sua morte, divide o território entre as 12 tribos de Israel, tradicionalmente consideradas descendentes dos doze filhos de Yaacov (também conhecido como Israel), que eram Rúben, Simeão, Levi, Judá, Dã, Naftali, Gade, Aser, Issacar, Zebulom, José e Benjamim.",
+                "A distribuição foi feita com base em sorteios e considerava a quantidade de terra necessária para a população de cada tribo, bem como, segundo relatos da fé judaica, as instruções divinas dadas a Yehoshua.",
+                "Várias descobertas em sítios arqueológicos da região, como Jericó, Ai e Hazor, ajudam a validar eventos descritos na narrativa bíblica da conquista da Terra Prometida e corroboram a presença judaica na região nesse período."
+              ],
+              "id": 5,
+              "era": 1
+            },
+            {
+              "date": "1046 AC-1006 AC",
+              "title": "Os reinos: Saul",
+              "content": [
+                "A fraqueza inerente à sua organização tribal, criou a necessidade de um governante que pudesse unir as tribos e transformar a sua posição numa posição permanente, cuja autoridade fosse sucedida por herança.",
+                "Assim, começa o período monárquico no território. O primeiro rei, Saul (Saul) (c. 1020 a.e.c.), marcou a fase da reorganização do reino - que agora já não é mais tribal - e o estabelecimento de uma monarquia plena por seu sucessor, David. O Rei David (1004-965 a.e.c.), converteu seu reino numa importante potência da região, por meio de exitosas expedições militares, infringindo a derrota final aos filisteus, assim como através de uma rede de amistosas alianças com os reinos vizinhos.",
+                "No interior, uniu as doze tribos de Israel em um só reino, colocando Jerusalém e a monarquia no centro da vida nacional do país. David foi sucedido por seu filho Salomão (965- 930 a.e.c.), que reforçou ainda mais o reino.",
+                "Por meio de tratados com os reis vizinhos e matrimônios com fins políticos, Shlomo assegurou a tranquilidade dentro das fronteiras do reino, e o igualou às grandes potências da época. No segundo mês do quarto ano de seu reinado, foi iniciada a construção do Primeiro Templo - que só terminou em 924 a.e.c."
+              ],
+              "id": 6,
+              "era": 1
+            },
+            {
+              "date": "930 AEC",
+              "title": "A divisão dos reinos:",
+              "content": [
+                "O fim do reinado de Salomão foi marcado por descontentamento por parte da população, que teve que pagar muito pelos seus ambiciosos planos. Ao mesmo tempo, o tratamento preferencial à sua própria tribo irritava as outras, resultando num crescente antagonismo entre a monarquia e os separatistas tribais.",
+                "Após a morte de Salomão (930 AEC), uma insurreição aberta, contra seu filho, o sucessor Roboão levou ao rompimento das dez tribos do norte, que proclamaram Jeroboão como seu rei, e à divisão do país num reino do norte, Israel, e um reino do sul, Judá - este último no território das tribos de Judá e Benjamim.",
+                "O Reino de Israel, com a sua capital Samaria, durou mais de 200 anos com 19 reis, enquanto o Reino de Judá foi governado a partir de Jerusalém durante 400 anos pelo mesmo número de reis, da linhagem de David.",
+                "A expansão dos impérios Assírio e Babilônio causou a dominação de Israel e, depois, de Judá.",
+                "O Reino de Israel foi destruído pelos Assírios (722 AEC) e o seu povo foi levado ao exílio e ao esquecimento. Mais de cem anos depois, a Babilônia conquistou o Reino de Judá, exilando a maioria dos seus habitantes e destruindo Jerusalém e o Templo (586 AEC)."
+              ],
+              "id": 7,
+              "era": 1
+            },
+            {
+              "date": "722 AEC - 598 AEC",
+              "title": "Período Assírio",
+              "content": [
+                "O Império Neoassírio (quarto e penúltimo estágio da história assíria antiga) teve um sucesso sem precedentes, que não se deveu apenas à capacidade da Assíria de se expandir, mas também, e talvez mais importante, à sua capacidade de incorporar com eficiência as terras conquistadas em seu sistema administrativo.",
+                "A política de governo direto de Tiglate-Pileser (745–727 a.C), em vez de governo por meio de Estados vassalos, trouxe mudanças importantes para o Estado assírio e sua economia, em vez de tributos, o império passou a depender mais dos impostos arrecadados pelos governadores provinciais. E seu filho e sucesso o Rei Shalmaneser V (727-722 a.C.), foi o responsável pela conquista do Reino de Israel e tornar o Rei Oséias seu vassalo.",
+                "Porém o rei assírio pegou o rei Oséias em um ato de traição, ele não estava pagando os impostos e tributos por anos, e portanto ele o prendeu e após 9 anos de mandato, o rei Assirio capturou Samaria e invadiu, conquistando definitivamente o Reino de Israel. Ele deportou os israelitas para a Assíria e os estabeleceu em Hala, no rio Havor, no rio Gozã e nas cidades de Madai.",
+                "Parte do uso de uma política de reassentamento, em que algumas porções das populações de terras conquistadas foram reassentadas no coração assírio e em províncias subdesenvolvidas.",
+                "Essa política serviu tanto para desintegrar as identidades locais (tornando as regiões locais menos propensas à revolta), e isto gerou o fenômeno das Dez Tribos perdidas de Israel."
+              ],
+              "id": 8,
+              "era": 1
+            },
+            {
+              "date": "598 AEC - 538 AEC",
+              "title": "Exílio Babilônico",
+              "content": [
+                "O Rei Nabucodonosor II da Babilônia atacou Jerusalém em 598 aec, saqueando o Templo e promovendo um exílio de mais de 10 mil judeus. Em 586 aec, ocorreu outro ataque, resultando na deportação de mais de 40 mil pessoas e na destruição completa do Templo de Salomão. Esse período marcou o fim do Reino de Judá e o início do exílio na Babilônia.",
+                "Na Babilônia, os judeus foram assentados ao redor de Nippur, desfrutando de autonomia comunitária e liberdade religiosa. Integraram-se à vida econômica do império, mantendo sua identidade judaica. Apesar da adoção do aramaico, não se mesclaram com as populações pagãs. Prosperaram em diversas ocupações, tornando-se comerciantes, financistas e ocupando lugares de destaque na corte babilônica, como Daniel, Chanakya, Michael e Azarya, descendentes da família real do Reino de Judá, assim como Nehemias.",
+                "O Beit Midrash substituiu o Templo, e as observâncias religiosas, especialmente a oração e o jejum, tomaram destaque. A sinagoga tornou-se essencial na vida judaica, simbolizando a democracia espiritual e religiosa.",
+                "Influenciados por Ezequiel, os judeus ergueram casas de estudo na Babilônia, mantendo viva a tradição judaica. O estudo da Torá tornou-se mais acessível nas sinagogas, onde eram lidos trechos nos dias de Shabat e festas religiosas, persistindo até hoje.",
+                "Muitos judeus na Babilônia prosperaram, mas os sábios instituíram tradições para evitar que os mais pobres se sentissem humilhados, incluindo práticas relacionadas ao enterro."
+              ],
+              "id": 9,
+              "era": 1
+            },
+            {
+              "date": "538 AEC",
+              "title": "Retorno dos judeus à Terra de Israel - Rei Persa Ciro II, o Grande",
+              "content": [
+                "Em 539 a.E.C., o rei persa Ciro II, o Grande, entra vitorioso na Babilônia. Menos de um ano mais tarde, ele emite um decreto permitindo aos judeus retornar a Jerusalém e reconstruir o Templo. O rei os autorizou ainda a levar os objetos sagrados do Templo que os babilônios haviam capturado.",
+                "Foi um momento de júbilo para os judeus, que haviam sonhado com a volta à Terra de Israel e a reconstrução do Templo. Mas quantos deles iriam voltar? Na Babilônia, viviam confortavelmente. Além disso, sabiam que o retorno à Terra significaria enfrentar inúmeras dificuldades. Os judeus que ainda viviam na Terra de Israel – os que não haviam sido levados cativos – eram pobres e, portanto, seria necessário levar grandes somas para a reconstrução de Jerusalém e do Templo.",
+                "Em 538 a.E.C., aproximadamente 42 mil judeus deixaram a Babilônia rumo a Jerusalém, liderados por Zorobabel. Levavam consigo seus bens e as doações de ouro e prata feitas pela comunidade judaica e pelo rei. Ao chegar na Terra de Israel, porém, a alegria de ter retornado à sua Terra se dissipou diante da dura realidade vigente. Os anos que se seguiram foram marcados por conflitos, desentendimentos e agressões dos habitantes não judeus, que não viam com bons olhos a volta dos judeus à Eretz Israel.",
+                "Finalmente, no ano 516 a.E.C, praticamente 21 anos após o retorno, a construção do Segundo Templo foi concluída. A inauguração ocorreu, conforme as profecias, 70 anos depois que o Primeiro Templo fora arrasado."
+              ],
+              "id": 10,
+              "era": 1
+            },
+            {
+              "date": "332 AEC - 164 AEC",
+              "title": "Período Helenístico",
+              "content": [
+                "A conquista do Oriente Próximo por Alexandre Magno, nos anos de 333-331 a.C., deu início ao período helenístico do Oriente e de todo o mundo antigo em torno do Mar Mediterrâneo, o que incluía a Judéia.",
+                "Com a morte precoce de Alexandre, que morreu sem deixar herdeiros, seus generais, os diádocos, terminaram por lutar na tentativa de obter supremacia sobre o império deixado, mas mesmo assim, para os judeus seriam mais anos de influência helenística. Entre 320-198 a.C. a terra da Judeia fica sob domínio Ptolomeu e depois de 198-167 a.C. sob domínio selêucida, depois que  Antíoco III do Império Selêucida e Filipe V da Macedônia fizeram um pacto para apreender as posses ptolomaicas fora do Egito.",
+                "A política territorial selêucida era exatamente oposta à dos ptolomeus: os soberanos preferiam grandes unidades territoriais, segundo o modelo das sátrapas persas, divididas em províncias e distritos numerosos e cambiantes. Ao mesmo tempo, avançava vigorosamente o processo de helenização do Oriente, sustentado pelo número crescente de cidades gregas com um elevado grau de autonomia. Este processo, que perpassa pela difusão da cultura, língua e população grega, iniciado por Alexandre Magno viria a encontrar um obstáculo: o povo judeu e a cultura judaica, desde sempre muito enraizada e tradicional.",
+                "É inegável os judeus tenham sofrido diversas influências helenísticas, porém sempre foram um entrave para os imperadores. Porém essa relação problemática alcançou seu apogeu quando Antíoco IV Epífanes (175-164) apareceu em Jerusalém, no contexto da 6ª Guerra Síria contra Ptolomeu VI Filometor (181-145), para acabar com os distúrbios que aí aconteciam.",
+                "Ele conquistou a cidade duas vezes, em 169 e 168 a.C., depois que os romanos o impediram, por ultimato, de prosseguir com a guerra contra o Egito. Jerusalém tornou-se uma colônia militar helenística e assim iniciaram perseguições aos judeus fiéis à Torá e, para coroar tudo, no dia 6 de dezembro de 167 a.C. Antíoco IV mandou erigir um altar a Zeus olímpico em cima do grande altar de sacrifícios do Templo: a \"abominação da desolação\" do Livro de Daniel (Dn 11.31; 12.11). Isto foi o sinal para a eclosão da Revolta dos Macabeus."
+              ],
+              "id": 11,
+              "era": 1
+            },
+            {
+              "date": "165 AEC - 64 AEC",
+              "title": "Hasmoneus (Dinastia dos Macabeus)",
+              "content": [
+                "Em 175 a.C., Antíoco IV Epifânio chegou ao trono do Império Selêucida e iniciou uma campanha de assimilação contra os habitantes da Judeia. Num esforço de unificar os elementos Gregos do seu império, Antíoco determinou a destruição da fé Judaica e a helenização dos Judeus.",
+                "Um Édito foi publicado impondo os rituais religiosos aos Judeus em Jerusalém, sob pena de morte. No lugar delas, ele instalou uma estátua de Zeus no local do Templo e ordenou que se sacrificasse suínos ali. Para os judeus isso era a “abominação da desolação”. Esta foi a última gota e assim eclodiu a guerra religiosa. O sinal partiu da pequena localidade de Modiin. Lá vivia o sacerdote Matatias, da dinastia de Hasmon, com seus cinco filhos, João, Simão, Judas, Eleazar e Jônatas. Matatias não apenas se recusou a oferecer sacrificios pagãos, mas também matou um judeu que o fez e o funcionário selêucida que o havia exigido (1 Mac 2.1-26). Como não podia permanecer mais em Modin, em 166 a.C. ele foi para as montanhas e para o Deserto de Judá, com seus filhos e com outros seguidores, cujo número não parava de aumentar.",
+                "A partir de lá, começou a guerrilha contra tropas selêucidas e judeus apóstatas (1 Mac 2.27-48): uma guerra na qual seu filho Judas, com o apelido Macabeu, \"o homem do martelo\", se distinguiu, desde o início, de forma especial.  Quando Matatias faleceu, ainda no ano de 166, Judas Macabeu tornou-se o cabeça do movimento que, por causa dele, é chamado de movimento dos macabeus, revolta macabéia. Judas era um guerreiro rude, um homem semelhante a um leão em suas ações e como “um leãozinho que se atira urrando sobre sua presa'' (1 Mac 3,4), contudo, simultaneamente, também um político de nível, que conduziu à vitória o movimento por ele liderado, acabando com o sacrilégio religioso de Antíoco IV.  Eles conseguiram uma vitória, reconquistaram Jerusalém, recapturaram o Templo Sagrado de Jerusalém, purificaram-no, reconstruíram o Altar e retomaram os serviços religiosos. Uma parte fundamental dos serviços diários no Templo era o acender da Menorá com azeite de oliva ritualmente puro. Quando conquistaram o Templo, os Macabeus se depararam com um único jarro de azeite que não estivesse impuro. Acenderam a Menorá com o conteúdo desse único recipiente. Devido à pouca quantidade, sua luz deveria ter durado um único dia, mas, milagrosamente, ardeu por oito dias.",
+                "Esse era o tempo necessário para a produção de mais azeite ritualmente puro. Os judeus viram nesse fenômeno sobrenatural - um suprimento de um dia durar oito dias - um sinal Divino de que Sua Providência havia intervindo em favor dos Macabeus na luta contra o poderoso exército selêucida. Para comemorar tais eventos, nossos Sábios instituíram a festa de Chanucá, que dura oito dias. Nós a acendemos  a Chanukiá, em nossos lares, durante oito noites, adicionando uma vela extra a cada noite. Essa história é retratada nos dois Livros dos Macabeus (não fazem parte do Tanach). Os judeus conseguiram independência na Judeia, sob domínio dos Hasmoneus, que durou entre 140-63 aec. Porém, cerca de um século após a revolução dos macabeus Pompeu invadiu Israel em 63 aec, que então passou para o domínio romano."
+              ],
+              "id": 12,
+              "era": 1
             }
           ]
         },
@@ -56,22 +157,83 @@
           "era": 2,
           "sections": [
             {
-              "era": 2,
-              "id": 5,
-              "title": "War of Something",
+              "date": "64 AEC - ANO 70 (EC)",
+              "title": "A conquista Romana e a Destruição do Segundo Templo",
               "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded in 1973 between Israel and a coalition of Arab states led by Egypt and Syria. This war marked a pivotal moment in the history of the Middle East, particularly in the ongoing Israeli-Arab conflict."
+                "A Província Romana da Síria foi incorporada à República Romana em 64 A.C por Cneu Pompeu Magno, um político da Gens Pompeia, após a derrota do Rei da Armênia, Tigranes. Em 135, após a Revolta de Barcoquebas, a província da Síria foi fundada com a Judeia, na intenção de formar a Síria Palestina. Em 415, devido à subordinação do Imperador Romano à Diocese do Oriente (províncias do Oriente Médio Ocidental entre o Mar Meditterânea e a Mesopotâmia), a Síria palestina foi dividida em duas. Somente na década de 630 que ocorreu a conquista muçulmana da Síria.",
+                "A Aelia Capitolina, também conhecida como Colônia Aelia Capitolina, era uma cidade construída pelo Imperador Romano Adriano, em 131. A cidade era localizada no Sítio das Ruínas de Jerusalém e era ocupada por uma colônia romana. O termo ́ Amélia ́ vem do nomen gentile do Imperador Adriano, enquanto ́ Capitolina ́ vem de uma homenagem a Júpiter Capitolino. A fundação dessa cidade resultou na derrota da Revolta Judaica dos Barcoquebas, sendo estes proibidos de entrarem na nova cidade.",
+                "O Beit HaMikdash, Segundo Templo, foi construído pelo povo judeu no mesmo local onde o Primeiro Templo foi destruído. A destruição do Segundo Templo, que ocorreu no dia 30 de Agosto de 70, foi o resultado de um cerco romano a Jerusalém durante uma rebelião vinda dos judeus contra os romanos. O Beit HaMikdash foi incendiado e demolido pelos soldados romanos, que mataram e escravizaram milhares de habitantes da cidade. Uma parte do Segundo Templo não foi totalmente destruída, sendo, atualmente, um dos lugares mais sagrados e importantes para o povo judeu, o Muro das Lamentações. Além disso, como forma de celebração dos romanos, eles construíram um arco revelando o roubo do Muro das Lamentações (Kotel HaMaaravi), sendo considerado uma evidência histórica extremamente marcante: o Arco de Tito.",
+                "O termo diáspora, em grego dispersão, define o deslocamento forçado ou incentivado de massas populacionais originárias de uma zona específica. Porém, neste caso, utilizamos este termo para designar a migração e colonização dos gregos pela Ásia Menor e Mediterrânea, no período de 800 a 600 A.C. A diáspora judaica, então, iniciou-se a partir do exílio da Babilônia, no século IV A.C., e, principalmente, depois da destruição do Beit HaMikdash e de Jerusalém, em 70 D.C. Desde o exílio da Babilônia há o marco de mais judeus fora do que dentro de Medinat Israel."
               ],
-              "date": "2001"
+              "id": 13,
+              "era": 2
             },
             {
-              "era": 2,
-              "id": 6,
-              "title": "War of Something",
+              "date": "132-136",
+              "title": "A revolta de Barcóquias (Bar Kochva)",
               "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded in 1973 between Israel and a coalition of Arab states led by Egypt and Syria. This war marked a pivotal moment in the history of the Middle East, particularly in the ongoing Israeli-Arab conflict."
+                "Shimon Bar Kochvá foi o grande líder da última revolução na Terra de Israel contra os romanos antes do grande exílio do povo judeu de sua terra. Descumprindo suas promessas de reconstruir a cidade de Jerusalém e de reformar o Templo, o imperador Adriano decidiu erguer, sobre os destroços da capital judaica, uma cidade romana, e renomeá-la Aelia Capitolina. Também mudou o nome da região para Síria-Palestina, em uma tentativa de apagar a identidade judaica da região. Nesse período, os judeus sofreram com as leis discriminatórias e não puderam seguir seus costumes.",
+                "Nesse ambiente, Shimon decide lutar contra os romanos. Muitos judeus (assim como outros povos) temiam enfrentá-los e achavam que uma rebelião levaria a um massacre. Bar Kochvá e seus soldados, no entanto, eram muito destemidos e diziam que, mesmo que não tivessem certeza da vitória, não aceitariam a escravidão.",
+                "Ao lado de Bar Kochvá esteve Rabi Akiva, um grande estudioso da Torá. Os alunos de Rabi Akiva foram os soldados de Bar Kochvá, junto a muitos outros de toda a Terra de Israel e da Diáspora. Eles lutaram bravamente contra os romanos, recebendo ajuda dos habitantes das aldeias hebreias próximas. As forças romanas não conseguiram enfrentá-los. O exército de Bar Kochvá conquistou toda a Judeia e libertou Jerusalém - nossa capital eterna.",
+                "O período de independência e soberania durou somente três anos e meio, mas seu significativo impacto pôde ser observado pela utilização de uma moeda própria (o shekel), a qual serviu como grande símbolo ilustrador da autonomia judaica. A última batalha foi na Fortaleza Betar. Depois de um longo e amargo combate de ambos os lados, a cidade retornou às mãos dos romanos."
               ],
-              "date": "2001"
+              "id": 14,
+              "era": 2
+            },
+            {
+              "date": "324-636",
+              "title": "Era Bizantina",
+              "content": [
+                "O Império Bizantino foi a continuação do Império Romano. Sua grande capital, Constantinopla, era originalmente conhecida como Bizâncio. A parte Oriental do Império Romano conseguiu sobreviver à separação e ao colapso do Império Romano Ocidental, resultando em sua sobrevivência e prospecção no século V até a sua queda devido ao Império Turco Otomano, no ano de 1453. O Império Bizantino se distingue do Império Romano na medida em que a cultura grega foi tomando parte da região ao em vez da latina, sendo sua principal característica a troca do politeísmo romano pelo cristianismo ortodoxo.",
+                "As fronteiras do Império Bizantino foram se modificando ao longo de sua estadia. Entre 527 e 565, durante o reinado de Justiniano, o Império alcançou sua maior extensão territorial, sendo esta o norte da África, Península Itálica e parte da Península Ibérica. Entre 582 e 602, com o reinado de Maurício, as fronteiras orientais foram expandidas e o norte foi estabilizado, porém, com a sua morte, houve um conflito de duas décadas, causando grandes perdas territoriais devido às invasões muçulmanas do século VII. Entre os séculos X e  XI, durante a Dinastia Macedônica, o Império se expandiu novamente e viveu por mais dois séculos, até o seu seu grande declínio com a perda de grande parte da Ásia Menor para os Turcos em uma Batalha no ano de 1071. Durante a Restauração Comnena (século XII), o Império recuperou parte do território perdido, até o fim da Dinastia Comnena, onde o declínio se estabelece novamente. Em 1204, houve um golpe fatal, quando houve a divisão entre reinos latinos e gregos. A Queda da Capital, Constantinopla, no entanto, somente acontece no século XV, devido aos territórios perdidos nas Guerras Bizantino-Otomanas e com a ascensão do Império Otomano."
+              ],
+              "id": 15,
+              "era": 2
+            },
+            {
+              "date": "636 - 1099",
+              "title": "Califado Árabe",
+              "content": [
+                "O Califado Árabe é a forma islâmica monárquica de governo. Esta representa a liderança política do mundo islâmico. O Califa, chefe de Estado, é baseado no conceito de um sucessor à autoridade política e religiosa do profeta islâmico, Maomé.",
+                "Desde a chegada do islã do século VII até 1924, inúmeras dinastias se alternaram com o Califado, incluindo os Omíadas (que foram expulsos de Damasco para Córdoba) de 661 a 750, os Abássidas (governaram a partir de Bagdá) de 750 a 1258, os Fatímidas (que governaram a partir de Cairo, Egito) e, finalmente, os Otomanos.",
+                "Durante os Otomanos, o Califado conseguiu conquistar Meca e Medina, com o sentido de criar uma unidade para os árabes. O árabe passa a ser o idioma oficial e chega a ser utilizado até na Capital, Istambul.",
+                "O Califado Árabe durou até 1924, quando o posto de Califa foi extinguido por Mustafa Kemal Ataturk, como parte do sistema de reformas e secularização da República da Turquia, sendo Abdul Mejide II o último Califa."
+              ],
+              "id": 16,
+              "era": 2
+            },
+            {
+              "date": "1099-1187",
+              "title": "Era das Cruzadas",
+              "content": [
+                "As Cruzadas foram uma série de campanhas militares realizadas por grande parte da Europa cristã, especialmente a França dos capetianos e o Sacro Império Romano, devido ao impulso do Papa, autoridade eclesiástica. As Cruzadas aconteceram durante dois séculos (1096 a 1291) e tinham como objetivo principal recuperar o controle político e religioso da Terra Santa, sendo esta Medinat Israel, especificamente Jerusalém.",
+                "Encorajados pela vitória da Batalha de 1071, os turcos anexaram os territórios da Síria, do atual Israel e entraram na cidade sagrada de Israel, causando uma revolta vinda da Igreja, iniciando-se as cruzadas. Durante o período das Cruzadas houveram muitas modificações geopolíticas, especialmente nas quatro cruzadas principais:",
+                "Durante a Primeiro Cruzada (1096 - 1099), a Igreja católica saiu como vencedora com o controle dos territórios disputados ocidentais, resultando na recuperação de parte dos territórios orientais para o Império Bizantino e o estabelecimento dos Estados Latinos do Oriente. Entre 1144 e 1148 ocorreu a Segunda Cruzada, a qual os exércitos cristãos foram derrotados pelos muçulmanos, os quais obtiveram o controle de Jerusalém. Durante a Cruzada dos Reis (1187 a 1191) houve a assinatura do Tratado de Ramla, que cedeu controle aos muçulmanos de Jerusalém, mas permitia a entrada dos cristãos para que fizessem suas peregrinações. O período de 1202 a 1204 foi marcado como uma revolta contra o Império Bizantino, o qual estava com relações amarguradas com o rei da Alemanha.",
+                "As Cruzadas somente chegam ao seu fim em 1291, quando os cristãos são derrotados juntamente de todos os seus territórios conquistados."
+              ],
+              "id": 17,
+              "era": 2
+            },
+            {
+              "date": "1291-1517",
+              "title": "Era Mameluca",
+              "content": [
+                "O Sultanato Mameluco era um reinado localizado no Egito, Levante e Hejaz. Este durou desde o declínio do Império Aiúbida até a conquista do Egito pelos romanos (1250 a 1517). Os historiadores, tradicionalmente, dividem a era deste reinado mameluco em dois: Turco, também conhecido como Bahri, entre 1250 e 1382, e Circassiano, também conhecido como Burji, entre 1382 e 1517. Essa divisão foi criada devido ao domínio político dos regimes e para enfatizar a mudança nas origens étnicas da maioria dos mamelucos.",
+                "O Estado Mameluco atingiu o seu auge sob domínio otomano com a cultura árabe, e após este evento houve um grande declínio sob os circassianos. O grupo predominante deste eram os mamelucos, soldados árabes não-muçulmanos de origem escrava. Os Mamelucos eram considerados \"verdadeiros senhores\", com estatuto social acima dos cidadãos do Egito. Embora tenha declinado no final da sua existência, no auge o sultanato representou o zénite da glória política, económica e cultural medieval egípcia e Levantina na era Islâmica."
+              ],
+              "id": 18,
+              "era": 2
+            },
+            {
+              "date": "1517-1919",
+              "title": "Império Turco-Otomano",
+              "content": [
+                "O domínio do Império Turco Otomano na Terra de Israel começou no século XVI, quando o sultão Selim I conquistou a região, incluindo Jerusalém, em 1517. Durante séculos, a Palestina tornou-se parte integrante do extenso império, experimentando uma relativa estabilidade sob o controle otomano. Jerusalém, em particular, foi marcada pela construção de notáveis estruturas, como as muralhas da Cidade Velha e seus oito portões, pelo Sultão Suleiman, o Magnífico, entre os anos 1535-1542, e de Mishkenot Shananim, o primeiro bairro judaico fora das muralhas, em 1860.",
+                "Durante esse período, a maior parte da população judaica na região concentrava-se nas cidades de Jerusalém, Tzfat (Safed) e Tiberíades, as quais são muito importantes para a religião judaica. Apesar de desafios e limitações em termos de status legal e condições socioeconômicas, a presença judaica na região desempenhou um papel significativo no cenário cultural e religioso, com a continuidade de instituições educacionais e práticas religiosas, e vários judeus também estavam envolvidos em atividades comerciais, agrícolas e artesanais, contribuindo para a economia local.",
+                "No entanto, ao longo do tempo, o império enfrentou declínio e crescente pressão de potências europeias. O final do domínio otomano na região ocorreu com o término da Primeira Guerra Mundial, quando o Império Otomano foi derrotado e o Mandato Britânico foi estabelecido, inaugurando uma nova fase na história da Terra de Israel."
+              ],
+              "id": 19,
+              "era": 2
             }
           ]
         },
@@ -79,31 +241,119 @@
           "era": 3,
           "sections": [
             {
-              "era": 3,
-              "id": 7,
-              "title": "War of Something",
+              "date": "1915-1916",
+              "title": "Correspondências McMahon-Hussein",
               "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded in 1973 between Israel and a coalition of Arab states led by Egypt and Syria. This war marked a pivotal moment in the history of the Middle East, particularly in the ongoing Israeli-Arab conflict."
+                "Durante a Primeira Guerra Mundial, Sir Henry McMahon, o Alto Comissário Britânico no Egito, e Hussein bin Ali, Sharif de Meca, trocaram correspondências que ficaram conhecidas como as Cartas de McMahon-Hussein. Essas cartas têm grande importância histórica devido às implicações para o futuro da região, especialmente no que se refere à promessa britânica de apoio à independência árabe em troca de cooperação contra o Império Otomano.",
+                "Em 1915 e 1916, McMahon trocou várias cartas com Hussein, nas quais discutiram as condições sob as quais a Revolta Árabe contra o domínio otomano poderia receber apoio britânico. McMahon fez promessas vagas de um Estado árabe independente que incluiria áreas que hoje fazem parte da Síria, Iraque, Jordânia e Arábia Saudita, excluindo explicitamente as áreas costeiras do Mediterrâneo, que incluem o que é hoje Israel e Palestina.",
+                "As interpretações das cartas foram controversas, especialmente no que se refere à promessa de independência árabe. Após a guerra, as fronteiras da região foram redesenhadas pelos Acordos de Sykes-Picot (1916), pela Declaração de Balfour (1917) e pelo Memorando da Transjordânia (1922), o que gerou descontentamento entre os árabes, uma vez que algumas das promessas feitas nas cartas não foram integralmente cumpridas. Essa situação contribuiu para as tensões e desafios na região e, em parte, moldou o curso subsequente da história do Oriente Médio."
               ],
-              "date": "2001"
+              "id": 20,
+              "era": 3
             },
             {
-              "era": 3,
-              "id": 8,
-              "title": "War of Something",
+              "date": "1916",
+              "title": "Acordo Sykes-Picot",
               "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded in 1973 between Israel and a coalition of Arab states led by Egypt and Syria. This war marked a pivotal moment in the history of the Middle East, particularly in the ongoing Israeli-Arab conflict."
+                "O Acordo de Sykes-Picot foi um pacto secreto assinado em maio de 1916 entre o Reino Unido e a França, durante a Primeira Guerra Mundial. Os signatários do acordo foram Sir Mark Sykes, em nome do Reino Unido, e François Georges-Picot, representando a França. O acordo foi nomeado em homenagem a esses dois diplomatas.",
+                "O objetivo principal do Acordo de Sykes-Picot era definir as esferas de influência e os interesses territoriais das potências aliadas na região do Oriente Médio, caso conseguissem derrotar o Império Otomano, que estava do lado das Potências Centrais na guerra. O acordo propunha uma partilha territorial da região, delineando esferas de controle e influência britânica e francesa.",
+                "De acordo com o Acordo de Sykes-Picot, as áreas designadas para a França incluíam partes do sul da Turquia, Síria e Líbano, enquanto o Reino Unido teria controle sobre a Mesopotâmia (atual Iraque) e a Palestina. A Rússia, que era parte do acordo inicialmente, receberia uma parte no norte da Pérsia (atual Irã), embora suas ambições tenham sido alteradas devido à Revolução Russa de 1917.",
+                "As fronteiras estabelecidas pelo Acordo de Sykes-Picot foram amplamente ignoradas ou modificadas por eventos subsequentes, como a Revolta Árabe e as mudanças políticas que ocorreram após a Primeira Guerra Mundial, mas seus desdobramentos contribuíram para a configuração do Oriente Médio moderno."
               ],
-              "date": "2001"
+              "id": 21,
+              "era": 3
             },
             {
-              "era": 3,
-              "id": 9,
-              "title": "War of Something",
+              "date": "1917-1918",
+              "title": "Conquista Vale do Jordão (Legião Judaica)",
               "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded in 1973 between Israel and a coalition of Arab states led by Egypt and Syria. This war marked a pivotal moment in the history of the Middle East, particularly in the ongoing Israeli-Arab conflict."
+                "Em meados de 1915, o líder sionista Ze’ev Jabotinsky, a partir de sua visão sobre a necessidade do envolvimento dos judeus na luta pela libertação da Terra de Israel e sobre a importância de uma organização de autodefesa judaica na região para o desenvolvimento do sionismo, abordou as autoridades britânicas com a proposta de criar uma unidade militar judaica para lutar contra o Império Otomano na Palestina.",
+                "Sob sua liderança e influência, a Legião Judaica foi oficialmente estabelecida em 1917, com o coronel britânico John Patterson como seu comandante. No ano seguinte, juntamente com as forças britânicas, a nova Legião foi enviada para a frente oriental do conflito, onde desempenhou um papel crucial na Batalha de Megiddo, parte da Campanha do Sinai e Palestina. O Vale do Jordão era uma área estratégica na Palestina, e sua conquista era vital para os Aliados.",
+                "A Legião Judaica participou de várias operações, incluindo a captura de Amã, a capital da Transjordânia (atual Jordânia), em março de 1918. Esse sucesso foi um dos fatores que contribuíram para a derrota otomana na região. A Batalha de Megiddo, em setembro de 1918, foi decisiva para os Aliados e resultou na retirada otomana e na eventual captura de Damasco.",
+                "A participação da Legião Judaica na conquista do Vale do Jordão durante a Primeira Guerra Mundial foi simbolicamente significativa para a comunidade judaica, pois representou uma contribuição militar ativa para a libertação de terras historicamente associadas ao povo judeu. Esses eventos também tiveram implicações para o posterior estabelecimento do Mandato Britânico na Palestina e os desenvolvimentos que levariam à criação do Estado de Israel em 1948."
               ],
-              "date": "2001"
+              "id": 22,
+              "era": 3
+            },
+            {
+              "date": "1919-1920",
+              "title": "Conferência de Paz de Paris",
+              "content": [
+                "Texto faltanto"
+              ],
+              "id": 23,
+              "era": 3
+            },
+            {
+              "date": "1920",
+              "title": "Conferência de San Remo",
+              "content": [
+                "A Conferência de San Remo foi uma conferência diplomática realizada em San Remo, Itália, de 19 a 26 de abril de 1920. Durante essa conferência, as potências aliadas vitoriosas da Primeira Guerra Mundial se reuniram para discutir e deliberar sobre o futuro dos territórios do Império Otomano, que estavam sendo divididos após o fim da guerra.",
+                "Uma das decisões mais importantes da Conferência de San Remo foi a adoção do princípio da atribuição de mandatos para administrar certas regiões até então sob domínio Império Otomano. A Conferência seguiu os princípios delineados anteriormente pelo Acordo de Sykes-Picot, que previa esferas de influência britânicas e francesas no Oriente Médio.",
+                "No contexto específico da Palestina, a Conferência de San Remo resultou na atribuição do Mandato Britânico sobre a região. Este mandato foi formalmente aprovado pela Liga das Nações em 24 de julho de 1922. Durante o período do Mandato, que durou até 1948, várias questões relacionadas ao estabelecimento de um lar nacional judeu na região foram abordadas, incluindo a implementação da Declaração de Balfour de 1917, que expressava o apoio britânico à criação de um \"lar nacional para o povo judeu\" na Palestina."
+              ],
+              "id": 24,
+              "era": 3
+            },
+            {
+              "date": "1921",
+              "title": "Conferência de Cairo",
+              "content": [
+                "Texto faltanto"
+              ],
+              "id": 25,
+              "era": 3
+            },
+            {
+              "date": "1929",
+              "title": "Revolta de Hebron",
+              "content": [
+                "A Revolta de Hebron de 1929 foi um violento conflito ocorrido na cidade de Hebron, na então Palestina sob o Mandato Britânico. A revolta foi um dos eventos mais trágicos e sangrentos durante o período do Mandato Britânico e teve como principal causa tensões entre comunidades árabes e judias.",
+                "Em agosto de 1929, rumores infundados de que os judeus estavam planejando tomar o controle da Mesquita de Al-Aqsa, em Jerusalém, levaram a um aumento das tensões na região. Em 23 de agosto de 1929, uma multidão árabe atacou a comunidade judaica em Hebron, resultando em um violento pogrom. Grupos de árabes locais mataram e feriram gravemente muitos judeus, destruíram propriedades e saquearam casas e lojas judaicas.",
+                "A revolta de Hebron também se estendeu a outras áreas, como Safed e Jerusalém, e resultou em centenas de mortes e ferimentos de ambos os lados. Esse evento deixou uma marca duradoura nas relações entre comunidades judias e árabes na Palestina e contribuiu para a crescente hostilidade entre esses grupos."
+              ],
+              "id": 26,
+              "era": 3
+            },
+            {
+              "date": "1922",
+              "title": "Memorando da Transjordânia",
+              "content": [
+                "O memorando da Transjordânia, também conhecido como Livro Branco de 1922, foi um documento emitido pelo governo britânico durante seu mandato sobre a Palestina, em dissonância com a Declaração de Balfour (1917) e a Conferência de San Remo (1920). O documento afirmava que a Transjordânia (a região correspondente à margem oriental do Rio Jordão da Palestina Britânica) não estaria aberta para o assentamento judaico e seria defintiivamente excluída do território que formaria o \"lar nacional do povo judeu\" na região.",
+                "Esse memorando desempenhou um papel significativo na história da região, contribuindo para a posterior separação da Transjordânia do restante do Mandato Britânico para a Palestina e seu desenvolvimento como um estado árabe independente, que posteriormente se tornou o Reino Hachemita da Jordânia."
+              ],
+              "id": 27,
+              "era": 3
+            },
+            {
+              "date": "1937",
+              "title": "A Comissão Peel",
+              "content": [
+                "A Comissão Peel (Comissão Real para Palestina, 1936) foi uma comissão de investigação encabeçada pelo Lord Peel - membro do parlamento Inglês e da casa dos Lordes -  que tinha como objetivo investigar as causas da revolta árabe de 1936, que durou seis meses. Em 7/7/1937, a comissão fez um informe dizendo que o mandato britânico tinha se tornado inviável e que deveria ser proposto um plano de partição da Palestina.",
+                "Esse plano de partição elencou 10 pontos para uma divisão justa, dentre eles, o intercâmbio de terras e populações e a concessão dos lugares sagrados. Os judeus, liderados por David Ben-Gurion aceitaram, todavia o Alto Comitê Árabe, (que era composto por membros dos clãs árabes na Palestina) negaram."
+              ],
+              "id": 28,
+              "era": 3
+            },
+            {
+              "date": "1939",
+              "title": "O Livro Branco - “Declaração de Política da Palestina”",
+              "content": [
+                "O Livro Branco de 1939, oficialmente conhecido como a \"Declaração de Política na Palestina”, foi uma política estabelecida pelo governo britânico durante o período do Mandato Britânico na Palestina. Emitido em maio de 1939, o Livro Branco refletia uma mudança significativa na política britânica na região, especialmente em relação à imigração judaica e à criação de um Estado judaico na Palestina. Os principais pontos da declaração incluíam o estabelecimento de uma cota drasticamente limitada para o número de autorizações de entrada para a população judaica e de restrições à venda de terras a judeus na Palestina. Os novos termos contradiziam aqueles estabelecidos na Declaração Balfour e ratificados pela Liga das Nações em Paris (1919) e San Remo (1920) e foram fatais para a salvação de milhares de judeus que buscavam fugir das intenções assassinas das políticas nazistas já em vigor em grande parte da Europa."
+              ],
+              "id": 29,
+              "era": 3
+            },
+            {
+              "date": "1947",
+              "title": "Resolução 181 - Assembleia Geral das Nações Unidas - “Partilha da Palestina”",
+              "content": [
+                "A Partilha da ONU de 1947 refere-se ao plano proposto pela Assembleia Geral das Nações Unidas para dividir o Mandato Britânico na Palestina em dois estados independentes: um estado judeu e um estado árabe. Esse plano foi apresentado como a Resolução 181 da Assembleia Geral das Nações Unidas e foi adotado em 29 de novembro de 1947, após apoio dos Estados Unidos e da União Soviética, abstenção por parte do Reino Unido.",
+                "O plano de partilha propôs a criação de um estado judaico e um estado árabe, com Jerusalém sendo internacionalizada e administrada pela ONU. A ideia era resolver as tensões étnicas e religiosas na região, fornecendo dois estados para as comunidades judaica e árabe.",
+                "Os líderes judaicos aceitaram o plano, mas os líderes árabes rejeitaram, argumentando que a partilha era injusta. Isso levou a um período de conflitos e, eventualmente, à Guerra de Independência de Israel em 1948, que teve início após a declaração de independência do Estado de Israel em 14 de maio de 1948."
+              ],
+              "id": 30,
+              "era": 3
             }
           ]
         },
@@ -111,355 +361,201 @@
           "era": 4,
           "sections": [
             {
-              "era": 4,
-              "id": 10,
-              "title": "War of Something",
+              "date": "1948-1949",
+              "title": "Declaração de Independência do Estado de Israel",
               "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded in 1973 between Israel and a coalition of Arab states led by Egypt and Syria. This war marked a pivotal moment in the history of the Middle East, particularly in the ongoing Israeli-Arab conflict."
+                "A declaração de independência do Estado de Israel ocorreu em 14 de maio de 1948, na cidade de Tel Aviv. David Ben-Gurion, líder da Agência Judaica e chefe da liderança sionista, proclamou a criação do Estado de Israel. O evento ocorreu um dia antes do final do Mandato Britânico na Palestina, conforme determinado na resolução 181 da Assembleia Geral das Nações Unidas.",
+                "A declaração de independência foi um momento crucial na história de Israel e seguiu a retirada das autoridades britânicas da região. O documento, conhecido como a Declaração de Independência de Israel, foi redigido por um comitê liderado por David Ben-Gurion e enfatizou a ligação milenar do povo judeu com a Terra de Israel, o compromisso do novo estado com “o princípio da liberdade, justiça e paz social, e a ser um exemplo para as nações do cumprimento da aspiração para a liberdade humana, conclama o nosso povo a apegar-se a supremacia das disposições da Carta da ONU.” e o desejo de viver em paz e cooperação com os países vizinhos.",
+                "A declaração marcou o fim do Mandato Britânico na Palestina e o início do Estado de Israel. No dia seguinte, em 15 de maio de 1948, forças militares dos países árabes vizinhos invadiram Israel, dando início à Guerra de Independência de Israel."
               ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 11,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded in 1973 between Israel and a coalition of Arab states led by Egypt and Syria. This war marked a pivotal moment in the history of the Middle East, particularly in the ongoing Israeli-Arab conflict."
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 12,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded in 1973 between Israel and a coalition of Arab states led by Egypt and Syria. This war marked a pivotal moment in the history of the Middle East, particularly in the ongoing Israeli-Arab conflict."
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 13,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 14,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 15,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 16,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 17,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 18,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 19,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 20,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 21,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 22,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 23,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 24,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 25,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 26,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 27,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 28,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 29,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
-              "id": 30,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
-            },
-            {
-              "era": 4,
               "id": 31,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "1948",
+              "title": "A crise dos refugiados judeus",
+              "content": [
+                "Após o fim da Guerra de Independência, foi restabelecida a soberania judaica naquela terra pela primeira vez em dois mil anos. No entanto, a redefinição de fronteiras levou ao deslocamento forçado de populações árabes e judaicas. Ao mesmo tempo em que se lembra dos árabes da terra que foram deslocados para debaixo dos governos da Jordânia e do Egito, é comum que se esqueça dos mais de novecentos mil judeus expulsos dos países árabes em uma retaliação após a vitória judaica na região.",
+                "Antes do estabelecimento do Estado de Israel, os judeus estavam espalhados nos países árabes, em especial no norte da África, no Iraque, no Irã e na Turquia. No fim da década de 1940, cerca de 90% desses judeus foram expulsos de suas casas e tiveram suas propriedades confiscadas pelos governos locais. O auge da expulsão dos judeus se deu em 1956, com a crise do Suez. Dos novecentos mil judeus expulsos de suas casas, cerca de 650 mil foram absorvidos por Israel entre 1948 e 1979, mas com os problemas estruturais do Estado nos seus primeiros anos, foram alocados em grandes campos de absorção, as chamadas ma'abarot."
+              ],
               "id": 32,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "1949",
+              "title": "O Armistício de 1949 (A Linha Verde):",
+              "content": [
+                "Dada a frustrada tentativa de aniquilação da presença judaica na região aliada ao estabelecimento de um grande Estado Árabe, em 1949, o armistício foi assinado com o Egito, Jordânia, Líbano e Síria, assim definindo as novas fronteiras do Estado Judeu que vigorariam até 1967. Essa nova fronteira, também conhecida como fronteira pré-1967, divide Jerusalém em ocidental e oriental. Enquanto Jerusalém Ocidental ficou sob domínio israelense; Jerusalém Oriental, incluindo toda a Cidade Velha, ficou sob domínio jordaniano, além de toda a região da Judeia e Samaria. Israel, agora, teria controle sobre o norte, enquanto Gaza se tornaria território egípcio. Foi a partir desse momento que a região da Judeia e Samaria adquiriu o nome Cisjordânia - em contraposição à Transjordânia, seu país ocupante. Sua tentativa de anexação da região foi reconhecida somente pelo Paquistão, Iraque e Reino Unido.",
+                "No que diz respeito aos aspectos legais do Armistício de 1949, é de especial relevância trazer à tona o seguinte fato: ele não é, sob o aspecto de soberania territorial, fonte de direitos e deveres dos judeus locais, muçulmanos locais, ou qualquer outra parte envolvida na conjuntura daquele então. Diz o Artigo 2: \"Reconhece-se também que nenhuma disposição do presente acordo prejudicará, de forma alguma, os direitos, reivindicações e posições de qualquer das partes na solução pacífica final da questão palestina, As disposições do presente acordo são dedicadas exclusivamente a considerações militares\". Dessa forma, é acertado alegar que a Linha Verde é somente relevante no que diz respeito à lei de guerra e a onde as partes se absteriam do conflito dali em diante."
+              ],
               "id": 33,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "1956",
+              "title": "Crise do Suez",
+              "content": [
+                "Em 1956, Gamal Abdel Nasser, então presidente do Egito, decidiu fechar o Canal de Suez, que até então era administrado pela Grã Bretanha e pela França, declarando a nacionalização do canal. Na época, Israel e Egito não tinham relações diplomáticas, logo a nacionalização do canal representaria grave risco econômico para o Estado Judeu, uma vez que o fechamento do canal impedia passagem de mercadorias vindas do Mar Arábico pelo Estreito de Tiran, em uma violação do armistício de 1949.",
+                "Diante disso, Israel lançou uma ofensiva contra o Egito, seguido pelos antigos administradores do canal no que ficou conhecido como \"Operação Kadosh\". Israel invadiu a Península do Sinai e a Faixa de Gaza, e a Inglaterra e a França mandaram brigadas paraquedistas para fundar navios e retomar o controle. No entanto, ambos os países sofreram fortes pressões, principalmente dos Estados Unidos, que apelava para um cessar-fogo, e das suas populações civis. Israel, nessa operação, ocupou os territórios invadidos, onde ficou por quatro meses, até devolvê-los para o Egito."
+              ],
               "id": 34,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "1964",
+              "title": "Criação da Organização para Libertação da Palestina (OLP)",
+              "content": [
+                "Em janeiro de 1964, no Cairo, a Liga Árabe se reuniu e decidiu pela criação de uma organização que fosse capaz de defender e representar os árabes palestinos. No mesmo, ano, em 28 de maio, em Jerusalém se decidiu pela criação da Organização pela Libertação da Palestina, que tinha, na sua carta de fundação a negação do direito de Israel existir, a luta armada contra os sionistas e a libertação da Palestina em todo território do Mandato Britânico, que existiu entre 1918 e 1948 naquela região, de maneira incondicional e indivisível. Além disso, negavam a existência do povo judeu enquanto nação e negavam a ligação dos judeus com aquela terra.",
+                "No emblemático artigo 24 da sua carta de fundação, removido da sua segunda edição lançada em 1967, alegam, explicitamente, o seguinte: \"Esta organização não exerce qualquer soberania regional sobre a Cisjordânia, no Reino Hashemita da Jordânia, na Faixa de Gaza ou na Área de Himmah. As suas actividades serão a nível popular nacional nos campos libertador, organizacional, político e financeiro.\" Além disso, no artigo 3, a OLP instituía o direito legal de um estabelecimento do Estado Palestino naquela terra com o direito irrestrito de decidir o destino das pessoas e da terra uma vez que tiver conquistado o território conforme suas vontades. Em consonância com sua carta fundamental, a OLP lançou diversos ataques terroristas contra cidadãos israelenses nos anos seguintes à sua fundação, sendo a maioria deles proveniente dos territórios controlados pela Jordânia, de Gaza e do Líbano. Em 1967, o Rei Hussein da Jordânia, temendo perder o poder e ataques retaliatórios de Israel contra a Jordânia, fechou os escritórios em Jerusalém e prendeu a maior parte de seus membros."
+              ],
               "id": 35,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "1967",
+              "title": "Guerra dos Seis Dias",
+              "content": [
+                "Em setembro de 1965, os líderes dos países árabes se encontraram secretamente no Marrocos para discutir uma invasão a Israel. O Rei Hassan II, do Marrocos, desconfiava da Liga Árabe e, portanto, gravou a reunião, entregando a gravação para agentes do Mossad depois. Nos anos seguintes, a Síria, extremamente insatisfeita com o plano israelense de levar água do Kineret para o resto do país, começou alguns ataques à fazendas no norte israelense, vindos das colinas do Golã.",
+                "Às vésperas da Guerra, os sírios já tinham posto seu exército no norte, enquanto o Egito começou a movimentar tropas pelo Sinai e acabou com a organização egípcia-israelense que monitorava o canal de Suez, além de fechar, novamente, o estreito de Tiran. Durante 1967, houve uma escalada de tensão que terminou com o ataque preventivo de Israel contra as forças aéreas egípcias. Como retaliação, Síria, Líbano e Jordânia atacaram Israel, que revidou e venceu a guerra em seis dias, anexando o Golã, o Sinai, a faixa de Gaza, Judeia e Samaria e Jerusalém Oriental. Vale ressaltar que a anexação não era o objetivo da guerra, mas foi condicionada aos ataques recebidos."
+              ],
               "id": 36,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "1973",
+              "title": "Guerra de Yom Kipur",
+              "content": [
+                "Apesar de Israel ter demonstrado a superioridade militar com relação aos países árabes na Guerra de 67, Egito e Síria resolveram travar uma nova guerra em 1973: a Guerra do Yom Kippur. As lideranças dos países tinham como objetivo principal reconquistar os territórios perdidos na Guerra dos 6 dias: o Sinai, por parte do Egito, e o Golã, por parte da Síria.",
+                "Sendo assim, os egípcios e sírios, em outubro de 1973, durante o dia mais sagrado do judaísmo (Yom Kippur - Dia do Perdão), no qual é comum jejuar, realizaram ataques surpresas coordenados, conseguindo infiltrar pelo sul e norte do território israelense. Devido a festividade judaica, o exército israelense não estava com foco e força máxima, o que fez com que as ofensivas tivessem resultados iniciais devastadores para a nação judaica.",
+                "Entretanto, após algumas semanas de Guerra, Israel conseguiu retomar seus territórios no norte, combatendo os sírios, e ao sul, combatendo os egípcios. A frente contra o Egito foi a mais difícil, mas a que trouxe o melhor resultado. Isso pode ser afirmado, pois, após o acordo de cessar fogo entre os dois países, as conversas para a paz começaram e avançaram bastante até chegar no Acordo de Camp David, em 1979."
+              ],
               "id": 37,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "1978",
+              "title": "Acordo de Camp David",
+              "content": [
+                "Em 1978, o recém-eleito primeiro ministro de Israel, Menachem Begin, juntamente com Anwar Sadat, o então presidente do Egito, concluíram suas negociações de paz ao assinarem os Acordos de Camp David, com intermédio do presidente americano Jimmy Carter. As longas conversas, que contaram com uma visita de Sadat a Israel, resultaram no primeiro acordo de paz de Israel com um país árabe.",
+                "Em troca da paz com o Egito e o reconhecimento de seu direito de existir, Israel devolveu a Península do Sinai ao Egito, além de oferecer também a Faixa de Gaza (territórios que pertenciam ao Egito até a Guerra dos 6 Dias em 1967), porém, este segundo foi recusado. Como reconhecimento das tentativas de alcançar a paz no Oriente Médio, Menachem Beguin e Anwar Sadat foram premiados com o Nobel da Paz em 1978. No ano seguinte, 1979 , a paz entre Egito e Israel foi oficializada e segue em vigor até os dias de hoje.",
+                "Apesar da opinião pública israelense ter ficado dividida após a oficialização do acordo, ele se mostrou muito positivo para Israel, pois o Egito sempre foi um grande, quiçá o maior, inimigo do Estado de Israel, então esta ameaça teve fim. Pode-se dizer que este acordo também abriu a porta para outros importantes tratados de paz que Israel conseguiu nos anos seguintes. Por outro lado, a recepção no Egito, principalmente pelos grupos fundamentalistas islâmicos, nao foi positiva, sendo uma das principais causas do assassinato do Anwar Sadat em 1981."
+              ],
               "id": 38,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "1980",
+              "title": "Lei Básica de Jerusalém",
+              "content": [
+                "Em 1980, o governo do então primeiro-ministro Menachem Begin aprovou a Lei Básica de Jerusalém, texto esse que oficializou a unificada Jerusalém como capital única, eterna e indivisível do Estado de Israel. A lei consistia em quatro pontos , sendo o primeiro deles, a afirmação que Jerusalém unificada, contendo as partes ocidental e oriental, que foi recuperada em 1967, como a capital de Israel, como foi desde os tempos do Rei David. O segundo, reafirma Jerusalém como a residência oficial do presidente, do parlamento, do governo e da suprema corte. O terceiro, garantia a segurança e proteção de todos os locais sagrados da cidade, para todas as religiões, como o Muro das Lamentações para os judeus, o Santo Sepulcro para os Católicos e a mesquita de Al Aqsa para os muçulmanos. O quarto incluía um plano para o desenvolvimento da cidade, incluindo a alocação de fundos e promoção de atividades.",
+                "Apesar da negativa repercussão internacional na época, incluindo um veto do conselho de segurança da ONU, com o passar do tempo, muitos países começaram a aceitar esta lei e reconhecem Jerusalém como a capital de Israel, como o Estados Unidos em 2017, ao transferir sua embaixada de Tel Aviv para Jerusalém. Internamente, o texto foi de extrema importância para reafirmar a soberania de Israel sobre sua capital e garantir seu desenvolvimento.",
+                "Em 2000, três novos pontos foram inseridos a esta Lei Básica: a definição das áreas de jurisdição de Jerusalém, a intransferibilidade da autoridade de Jerusalém para alguém que não seja o Governo de Israel ou a Prefeitura de Jerusalém e uma garantia que esta Lei Básica não pode ser alterada sem a aprovação de dois terços do parlamento."
+              ],
               "id": 39,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "1982",
+              "title": "Primeira Guerra do Líbano",
+              "content": [
+                "Ao longo dos anos, a OLP construiu uma forte presença no sul do Líbano, próximo à fronteira com Israel. Esses grupos iniciaram uma sequência de ataques ao norte de Israel, principalmente o disparo de foguetes. Para combater essa afronta, o governo de Israel, em 1982, deu início a operação Paz na Galileia, que tinha o objetivo de remover essas milícias ligadas à OLP do Sul do Líbano, limpar essa região e fazer um cordão de segurança, garantindo a segurança das comunidades no Norte de Israel.",
+                "No entanto, essa operação escalou, intensificando os conflitos e a presença israelense no país vizinho, chegando até a capital Beirute, e deu origem à Primeira Guerra do Líbano. Como parte da estratégia, Israel se juntou com grupos armados cristão-libaneses, que tinham o interesse em comum de destruir essas células da OLP. Porém, um desses grupos invadiu campos de refugiados palestinos e realizou um massacre, conhecido como massacre de Sabra e Shatila. Esse episódio repercutiu negativamente para Israel, mesmo sem ter nenhuma relação com ele, e, somado ao grande número de soldados israelenses mortos em conflito (aproximadamente 675), gerou uma pressão intensa sobre o governo de Israel, sendo uma das principais causas da renúncia do então primeiro-ministro, Menachem Begin, em 1983.",
+                "Mesmo com o fim da guerra, Israel manteve presença militar no sul do Líbano até 2000, com o objetivo de manter a segurança no norte de Israel."
+              ],
               "id": 40,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "1987",
+              "title": "Primeira Intifada",
+              "content": [
+                "Após a Guerra dos Seis Dias, Israel manteve uma política de incentivo aos assentamentos nos territórios da Faixa de Gaza e da Judéia e Samaria, conquistados do Egito e Jordânia, respectivamente. Simultaneamente, foi iniciado um processo de criação de identidade nacional de um povo palestino, principalmente na juventude, que iniciou uma onde de protestos contra a presença israelense na região, em 1987. O final deste ano também foi marcado por dois grandes eventos: a Noite dos Planadores em Novembro, quando terroristas palestinos infiltrados do Líbano mataram 6 soldados israelenses na fronteira, e um acidente de trânsito envolvendo um veículo militar israelense que resultou em mortes de quatro palestinos. Este segundo, principalmente, foi o estopim da primeira intifada, também conhecida como Guerra das Pedras, devido ao fato de os jovens palestinos se utilizarem de pedras e coquetéis molotov contra soldados e alvos do exército de Israel.",
+                "Devido ao fato de uma liderança centralizada, esse levante teve um caráter popular e pouco organizado, apesar do envolvimento de grupos terroristas como Hamas e Jihad Islâmica. Durante o primeiro ano de rebelião, não houve um grande uso de armas e de violência efetiva por parte dos palestinos, no entanto, com o passar do tempo e com o envolvimento destes grupos terroristas, o conflito se tornou mais sangrento. Os ataques terroristas se intensificaram e, o que começou como um levante popular, se tornou uma guerra contra o terror. Um dos piores atentados, for cometido por um membro da Jihad Islâmica em 1989, quando um ônibus da linha 405 foi explodido pelo jihadista, matando 16 pessoas. Para combater estes grupos, Israel intensificou sua presença militar nas áreas em que atuavam, instalou toques de recolher e, em casos extremos, organizou poucas deportações, além do uso de inteligência e força militar para impedir infiltração e novos ataques.",
+                "Como era o esperado, a opinião publica em maioria se voltou para a defesa do lado palestino, principalmente por parte de imagens de jovens armados com pedras enfrentando soldados fortemente armados, mesmo isso sendo a reação necessária de Israel para manter a segurança no país. Além disso, a ONU passou diversas resoluções condenando Israel e pedindo soluções pacíficas para o conflito, além de instaurar uma comissão para investigar e examinar o conflito.",
+                "A Primeira Intifada teve fim em Setembro de 1993 com Yitzhak Rabin, então primeiro-ministro de Israel, e Yasser Arafat, fundador e líder da OLP, assinando os Acordos de Oslo, que serão explicados no mapa a seguir. Após este conflito, a OLP saiu com reconhecimento internacional como os representantes da causa palestina, enquanto os grupos terroristas, como o Hamas, cresceram e aumentaram sua base de apoio no meio palestino."
+              ],
               "id": 41,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "1993-1994",
+              "title": "Acordos de Oslo",
+              "content": [
+                "Em 1993, ocorreu um fato histórico, que prometia mudar todo o conflito no Oriente Médio, mas, infelizmente, não mudou. Rabin, com intermédio de Bill Clinton, negociou com Arafat e a OLP os Acordos de Oslo, que eram acordos intermediários para se chegar ao fim do conflito. Nesses acordos, a OLP assegurava que tiraria os pontos que diziam querer destruir Israel de sua cartilha. Não obstante, eles ainda aceitariam a resolução 242 da ONU, que possui 3 requisitos: saída das forças israelenses dos territórios conquistados em 1967, o fim das guerras e a aceitação de todos os países existentes (incluindo Israel) e a solução do problema dos refugiados palestinos em um marco de um acordo de paz.",
+                "Como consequência dos acordos, grupos radicais de palestinos que não aceitavam o reconhecimento de Israel como Estado intensificaram os ataques terroristas, como o Hamas. Parte da sociedade via isso como o preço a se pagar pela paz, enquanto outra parte imaginava que esse seria o resultado óbvio dos acordos. Em resposta aos ataques terroristas, alguns judeus resolveram responder na mesma moeda, que foi o caso de Baruch Goldstein, que realizou um massacre na Tumba dos Patriarcas, em Hebron, matando 29 palestinos. Entretanto, enquanto os terroristas palestinos eram considerados mártires, Israel condenou todos os judeus que cometeram atos terroristas, como Baruch Goldstein.",
+                "Mesmo após essa grande onda de violência, Rabin e Arafat assinaram os Acordos de Oslo B, que foram aceitos na Knesset por uma maioria mínima de 61 a 59. Esses acordos dividiam a Judéia e a Samária em 3 zonas: A, B e C. Nas zonas A e B, a Autoridade Palestina possui autonomia política e administrativa, enquanto nas zonas C quem possui é Israel. Entretanto, a segurança externa fica nas mãos de Israel para as áreas B e C, enquanto a Autoridade Palestina fica com a segurança das zonas A.",
+                "Essa divisão no território também seria intermediária, até que em algum momento se negociaria o status final dos territórios. Vale ressaltar que as áreas A e B são aproximadamente 40% da Judéia e Samária, enquanto as áreas C são 60%.",
+                "Após Oslo B, os conflitos políticos apenas se intensificaram, acarretando no assassinato de Rabin em 1995, realizado por um judeu, Igal Alon. Os palestinos também continuaram com os ataques, até que, em 2000, explodiu a Segunda Intifada."
+              ],
               "id": 42,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "1994",
+              "title": "Tratado de Paz Israel-Jordânia",
+              "content": [
+                "A década de 1990 foi um período de mudanças fortes na região do Oriente Médio, principalmente com o fim da Guerra do Golfo, em 1991, que gerou uma reavaliação das alianças regionais. Nesse contexto, ocorreu a Conferência de Madrid, em 1991, que tinha como objetivo buscar caminhos para a paz no Oriente Médio, momento chave para Israel discutir o tema com seus vizinhos árabes. Assim, as conversas secretas iniciadas em 1990 entre Israel e Jordânia tiveram um forte impulso.",
+                "Com o intermédio de Bill Clinton, o então presidente dos Estados Unidos, em 26 de outubro de 1994, foram oficializados os Acordos de Paz entre Jordânia e Israel, representados por Yitzhak Rabin, primeiro-ministro Israelense, e o Rei Hussein, monarca da Jordânia. O acordo foi assinado em Wadi Acaba, na fronteira entre os dois países. Desde então, ambos são parceiros, principalmente turísticos, com muitos israelenses indo para Petra, por exemplo, e comerciais, com Israel exportando água potável para a Jordânia. As relações foram normalizadas, ambas embaixadas foram abertas e a Jordânia se tornou o principal aliado de Israel na região.",
+                "Pouco menos conceituado, porém de não menor relevância histórica, foi uma negociação ocorrida ainda no mesmo ano, em 4 de Maio de 1994, no Cairo: o Acordo de Gaza-Jericó, que posteriormente veio a ser integrada no que foi chamado de Acordo de Oslo II. Com isso, Israel iniciou a construção da primeira barreira de 60 quilômetros ao longo da sua fronteira com a Faixa de Gaza em 1994, e a concluiu em 1996. Entre Dezembro de 2000 e Junho de 2001, a barreira teve de ser reconstruída, dada a sua destruição por palestinos durante o início da Intifada em Setembro de 2000, precedendo uma série de ataques terroristas contra a população israelense."
+              ],
               "id": 43,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "2000",
+              "title": "Cúpula de Camp David (Proposta Ehud Barak)",
+              "content": [
+                "Em julho de 2000, o então primeiro-ministro israelense, Ehud Barak, se encontrou com Arafat e Bill Clinton em Camp David para buscar o fim do conflito e um status final para os territórios da Judéia e da Samária. Para isso, ele ofereceu 91% da Judéia e Samária, a Faixa de Gaza e uma parte de Jerusalém Oriental (incluindo os bairros cristão e árabe da cidade velha e o Monte do Templo - esplanada das mesquitas) a Arafat, que recusou. Clinton e o príncipe saudita concordaram em dizer que as negociações não andaram devido à má vontade de Arafat. No mapa, vemos a última oferta oficial Israelense proposta durante as negociações. Há relatos não oficiais que relatam proposições adicionais que incluíam um território palestino contíguo, todas recusadas pela liderança de Arafat.",
+                "Após o fracasso das negociações de Camp David, começou a Segunda Intifada. A narrativa palestina diz que o conflito começou pois Ariel Sharon caminhou na esplanada das mesquitas, o que gerou uma grande revolta palestina. Entretanto, os próprios palestinos admitem que isso é mentira. Imad Falugi, Ministro de Comunicação da Autoridade Palestina declarou que, apesar de a ação de Ariel Sharon ter sido a gota d'água, a Intifada foi planejada de antemão desde o regresso de Arafat de Camp David.",
+                "No meio da Intifada, em 2001, Ehud Barak fez uma nova oferta aos palestinos, nas conversas de Taba. Além do que já havia oferecido em Camp David, Barak aumentou para 95% o território da Judéia e Samária e aceitou receber até 100.000 refugiados palestinos. Arafat novamente recusou a oferta (pesquisar melhor sobre esse tema).",
+                "Como resposta à Intifada, o exército de Israel começou a Operação Muro de Defesa, na qual destruiu boa parte da estrutura institucional da Autoridade Palestina na Judéia e Samária. Além disso, foi construído o muro de segurança na fronteira da Judéia e Samária. No entanto, apenas 5% dele é realmente um muro, sendo os outros 95%, uma cerca. Apesar dos antissemitas o chamarem de \"muro do apartheid\", o seu objetivo é único e exclusivamente a segurança, tendo resultado numa diminuição de 99% dos ataques terroristas."
+              ],
               "id": 44,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "2005",
+              "title": "Desconexão unilateral da Faixa de Gaza",
+              "content": [
+                "Mesmo sem ter com quem negociar do lado palestino, Israel sempre buscou incessantemente a paz. Para demonstrar isso, em 2005, o governo israelense resolveu sair unilateralmente de Gaza, ou seja, se retirou do território sem exigir nada em troca. O primeiro-ministro, Ariel Sharon, esperava mostrar que estava disposto a tudo pela paz. Entretanto, ele recebeu o extremo oposto. Os soldados israelenses foram obrigados a retirar aproximadamente 8.000 judeus de suas casas, sendo alguns contra a sua vontade.",
+                "O apelo pela paz recebeu como resposta o terror. Um ano após a desconexão, em 2006, o Hamas foi eleito democraticamente nas eleições palestinas. E, um ano após as eleições, em 2007, o Hamas e o Fatah entraram em um conflito militar em Gaza, no qual morreram não só combatentes dos grupos, mas também civis e diplomatas da ONU.",
+                "No final do conflito, determinou-se que o Hamas governaria a Faixa de Gaza e a ANP governaria as zonas A e B da Judéia e Samaria. Logo, após os confrontos, os 2 grupos deram golpes se auto determinando os governantes, autoritariamente, em suas respectivas regiões.",
+                "Como resposta a tomada de poder antidemocrática do grupo terrorista Hamas na Faixa de Gaza, o governo israelense impôs uma série de restrições de importação, que estão de acordo com as leis internacionais (pesquisar melhor sobre o tema)."
+              ],
               "id": 45,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "2005",
+              "title": "Segunda Guerra do Líbano",
+              "content": [
+                "O Hezbollah, em 2006, estava realizando inúmeros atentados contra cidades do norte de Israel. Entretanto, apesar dos ataques, o governo israelense não pretendia entrar em território libanês. Isso mudou no dia 12 de julho, quando 2 soldados israelenses foram sequestrados e 3 foram mortos.",
+                "Após decidir entrar em Guerra contra o Hezbollah (não o Líbano), Israel realizou inúmeros ataques em locais de comando do grupo terrorista (muitos concentrados em áreas civis), além de entrar por terra no sul libanês. Enquanto isso, o Hezbollah continuou com suas estratégias de bombardeios a áreas civis. No final do conflito, o Hezbollah saiu extremamente enfraquecido, entretanto, houveram muitas mortes de civis dos 2 lados, especialmente do lado libanês.",
+                "A mais benéfica proposta de paz para os palestinos ocorreu em 2008, no Plano Olmert."
+              ],
               "id": 46,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
+              "date": "2006-2008",
+              "title": "Plano Olmert",
+              "content": [
+                "Após 36 reuniões com a liderança palestina, entre 2006 e 2008, a proposta final foi: o mesmo que Barak em Camp David com a adição de um órgão específico para administrar os locais sagrados, uma ponte - apenas para os palestinos - ligando Gaza e a Judéia e Samária e um território equivalente a 100% da Judéia e Samária, com um \"swap\" territorial (trocar as terras de uma região por outras de outra região) de 6%. O novo líder da AP, Mahmoud Abbas, não respondeu à proposta."
+              ],
               "id": 47,
-              "title": "War of Something",
-              "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
-              ],
-              "date": "2001"
+              "era": 4
             },
             {
-              "era": 4,
-              "id": 48,
-              "title": "War of Something",
+              "date": "2020",
+              "title": "Acordos de Abraão",
               "content": [
-                "The Yom Kippur War, also known as the October War, was a significant conflict that unfolded"
+                "Após tentar fazer a paz, sem êxito, com os palestinos, Israel decide mudar a estratégia e buscar normalizar as relações com os países árabes mais moderados da região. Através da mediação dos Estados Unidos, por meio de seu presidente, Donald Trump, Israel solta a Declaração dos Acordos de Abraão, no dia 15 de Setembro de 2020. Nessa declaração, que possui o nome dos patriarcas das 2 religiões (islamismo e judaísmo), é anunciada a normalização das relações com o Bahrein e os Emirados Árabes Unidos.",
+                "Além dos 2 países supracitados, o Marrocos e o Sudão também decidiram normalizar as relações com o Estado de Israel posteriormente. Com isso, em menos de um ano, somou-se à a paz com o Estado Judeu um total de 4 novos países, mais do que todos os outros (Jordânia e Egito) em mais de 70 anos de existência do país.",
+                "Esses acordos mudaram o paradigma do conflito árabe-isralense: a paz com os palestinos não só virá depois da paz com o mundo árabe mas também será alavancada por conta desses acordos. Ela não se configura mais como um pré-requisito para a paz com as nações árabes (como foi por tanto tempo acreditado).",
+                "O próximo passo que Israel pretendia dar era alcançar a normalização das relações com a Árabia Saudita, líder dos países sunitas e uma das nações mais poderosas do mundo Árabe. Entretanto, a guerra com o Hamas interrompeu as conversas entre os 2 países, que devem continuar após o término do conflito."
               ],
-              "date": "2001"
+              "id": 48,
+              "era": 4
             }
           ]
         }
