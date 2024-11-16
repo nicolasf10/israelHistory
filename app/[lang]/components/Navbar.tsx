@@ -44,7 +44,7 @@ const Navbar = ({ eras: eras }: { eras: any }) => {
   };
 
   return (
-    <nav className="font-roboto bg-gray-800 fixed top-0 w-full h-20 items-center justify-between flex z-50">
+    <nav className="font-roboto bg-blue-950 fixed top-0 w-full h-20 items-center justify-between flex z-50">
       {/* <div className="container mx-0 flex items-center justify-end outline-white"> */}
         <div className="flex mr-auto ml-4 items-center justify-start">
           {/* <Image

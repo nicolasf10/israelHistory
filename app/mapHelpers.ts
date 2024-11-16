@@ -230,6 +230,10 @@ export function generateLegends(section : mapInterface, lang : string) {
         colors : []
     };
 
+    if (lang === 'es') {
+        lang = 'en';
+    }
+
     section.parts.map((part, partIndex) => {
         if (part.source.caption) {
             let caption = part.source.caption as any;

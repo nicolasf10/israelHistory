@@ -27,7 +27,7 @@ def write_json(sections, output_file):
         json.dump(sections, file, ensure_ascii=False, indent=2)
 
 def main():
-    input_file = 'sections4.txt'  # Change this to your input file path
+    input_file = 's4_esp.txt'  # Change this to your input file path
     output_file = 'section4.json'  # Change this to your desired output file path
     sections = parse_sections(input_file)
     write_json(sections, output_file)

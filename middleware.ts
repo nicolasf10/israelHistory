@@ -21,6 +21,11 @@ function getLocale(request: NextRequest): string | undefined {
 export function middleware(request: NextRequest) {
   console.log("middle");
   const pathname = request.nextUrl.pathname
+
+  console.log('pathname: ')
+  console.log(pathname)
+  console.log('Available locales:', i18n.locales);
+
   const pathnameIsMissingLocale = i18n.locales.every(
     locale => !pathname.startsWith(`/${locale}/`) && pathname !== `/${locale}`
   )
@@ -32,7 +37,7 @@ export function middleware(request: NextRequest) {
     console.log(locale);
     return NextResponse.redirect(
       new URL(
-        `/${locale}${pathname.startsWith('/') ? '' : '/'}${pathname}`,
+        `/pt`,
         request.url
       )
     )

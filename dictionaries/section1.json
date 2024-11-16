@@ -1,117 +1,107 @@
 [
   {
     "date": "1765 AEC —1523 AEC",
-    "title": "Era dos Patriarcas",
+    "title": "Era de los Patriarcas",
     "content": [
-      "Segundo relatos bíblicos, a história judaica começou há aproximadamente 4.000 anos (século XVII a.e.c.) com os patriarcas - Abrãao, seu filho Isaac e seu neto Jacó. Documentos descobertos na Mesopotâmia, que remontam aos anos 2000-1500 a.e.c. corroboram aspectos de seu estilo de vida nômade, descrito no Tanach.",
-      "No livro Bereshit (12:1) é relatado como Abraham foi chamado desde Ur dos caldeus à Canaã, para formar um novo povo com a crença em um Deus. Abraham chegou à terra de Canaã com Sara, sua esposa, que era estéril e não podia ter filhos, e permitiu que Abraham o tivesse com sua escrava, Hagar, para que a semente de seu esposo continuasse. Assim,  tiveram um filho chamado Ismael. Mas este filho não foi o único que teve Abraham. Aos seus 100 anos e aos 90 de Sarah, esta engravidou e teve um filho homem chamado Itzhak.",
-      "Quando Itzhak cresceu, teve como cônjuge uma mulher chamada Rivka, com quem teve dois filhos gêmeos, Esaú e Yaakov. O segundo foi bendito para continuar com a linhagem da família, enquanto o primeiro seria o pai de outros povos. No mapa, vemos a jornada do primeiro patriarca, Abraão, de Ur, na Caldeia, até a terra de Canaã."
+      "Según los relatos bíblicos, la historia del pueblo hebreo comenzó hace aproximadamente 4.000 años (siglo XVII AEC) con Abraham, su hijo Isaac y su nieto Jacob: los tres patriarcas del judaísmo y figuras centrales también en el cristianismo y el islam.",
+      "Documentos descubiertos en Mesopotamia, que datan de los años 2000-1500 AEC, corroboran aspectos de su estilo de vida nómade, descrito en la Biblia Hebrea (Tanaj). En el libro del Génesis (12:1), se relata cómo Abraham fue llamado desde Ur (de los caldeos) a Canaán, para formar un nuevo pueblo con la creencia en un solo Dios. Abraham llegó a la tierra de Canaán con Sara, su esposa, quien era estéril y no podía tener hijos. Ella permitió que Abraham los tuviera con su esclava, Agar, para que la descendencia de su esposo continuara. Así, tuvieron un hijo llamado Ismael. Pero este hijo no fue el único que tuvo Abraham. A los 100 años de Abraham y a los 90 de Sara, ella quedó embarazada y tuvo un hijo varón llamado Isaac.",
+      "Cuando Isaac creció, tuvo como esposa a una mujer llamada Rebeca, con quien tuvo dos hijos gemelos, Esaú y Jacob, quien fue bendecido para continuar con la descendencia familiar. En el mapa, vemos el recorrido del primer patriarca, Abraham, desde Ur, en Caldea, hasta la tierra de Canaán.",
+      "Según las tres religiones, los restos de Abraham, Isaac, Jacob, Sara, Rebeca y Lea se encuentran enterrados en la ciudad de Hebrón, mientras que los de Raquel están cerca de la entrada a Belén."
     ],
     "id": 1,
     "era": 1
   },
   {
     "date": "1523 AEC —1313 AEC",
-    "title": "Era de escravidão do povo judeu no Egito. Terra de Israel sob domínio egipcío.",
+    "title": "Era de la esclavitud del pueblo judío en Egipto. Tierra de Israel bajo dominio egipcio.",
     "content": [
-      "Jacó teve duas esposas, Lea e Rachel, e junto com elas e mais duas concubinas. Jacó teve doze filhos homens e uma filha chamada Diná. Quando a fome assolou Canaã, Jacó, agora já renomeado como Israel, seus doze filhos e suas famílias se estableceram no Egito, onde seus descendentes foram submetidos à escravidão e obrigados a realizar trabalhos forçados.",
-      "Existem duas versões dentro da Torá que mencionam os anos em que estiveram os filhos de Israel no Egito. Segundo o relato do Êxodo, 430 anos esteve o povo escravizado (12:40), e, segundo o relato de Gênesis, foram 400 anos de escravidão (15:13).",
-      "De igual maneira, foi no Egito a primeira vez que os filhos de Israel foram chamados \"povo\". Diz-se que chegaram 70 pessoas junto a Jacó, e, depois de 4 séculos, saíram 600 mil (Êxodo 12:37)."
+      "Jacob tuvo dos esposas, Lea y Raquel, y, junto a ellas y otras dos concubinas, tuvo doce hijos y una hija (llamada Dina). Cuando la hambruna azotó Canaán, Jacob, ahora conocido por su nombre Israel, sus doce hijos y sus familias se establecieron en Egipto, donde sus descendientes fueron sometidos a la esclavitud y obligados a realizar trabajos forzados. Existen dos versiones dentro de la Biblia que mencionan los años que los hijos de Israel estuvieron en Egipto. Según el relato del Libro de Éxodo, el pueblo estuvo esclavizado durante 430 años (12:40), y, según el relato de Génesis, fueron 400 los años de esclavitud (15:13). De igual manera, fue en Egipto la primera vez que los hijos de Israel fueron llamados \"pueblo\". Se dice que llegaron 70 personas junto a Jacob, y, después de cuatro siglos, salieron 600 mil (Éxodo 12:37).",
+      "Existen varios descubrimientos arqueológicos asociados a la presencia de los judíos en Egipto, entre los cuales destaca la Estela de Merenptah: una antigua inscripción erigida por el faraón Merenptah, hijo de Ramsés II, alrededor de 1207 AEC, que es considerada una de las primeras referencias extrabíblicas al pueblo de Israel en ese territorio. La parte relevante de la inscripción dice:",
+      "Los príncipes están postrados, diciendo: \"¡Misericordia!\" Ninguno levanta la cabeza entre los Nueve Arcos. La desolación está en Tehenu; Hatti está pacificada; Canaán ha sido saqueada por completo; Ascalón ha sido llevada; Guézer ha sido capturada; Yanoam ha sido hecha como si no existiera; Israel ha sido devastado, su semilla no está."
     ],
     "id": 2,
     "era": 1
   },
   {
     "date": "1313 AEC - 1273 AEC",
-    "title": "O Êxodo no Egito (a rota dos 40 anos no deserto).",
+    "title": "El Éxodo en Egipto (la ruta de los 40 años en el desierto).",
     "content": [
-      "Depois de aproximadamente 400 anos de escravidão no Egito, o povo de Israel foi conduzido à liberdade por Moshe, quem, de acordo com narrativa do Tanach, foi escolhido por Deus para tirar seu povo do Egito e retornar à Terra de Israel, prometida a seus antepassados.",
-      "Durante 40 anos eles caminharam pelo deserto do Sinai, onde se formaram como nação e receberam a Torá que incluiu os Dez Mandamentos e deu forma e conteúdo a sua fé monoteísta. O êxodo do Egito (1300 a.e.c.) deixou uma marca inapagável na memória nacional do povo judeu e passou a ser o símbolo da liberdade e da redenção. Anualmente, nas festividades judaicas de Pessach, Shavuot e Sucot, comemoram-se os eventos ocorridos nesse período."
+      "Después de aproximadamente 400 años de esclavitud en Egipto, el pueblo de Israel fue conducido hacia la libertad por Moisés, quien, de acuerdo con la narrativa bíblica, fue elegido por Dios para sacar a su pueblo de Egipto y llevarlo de regreso a la Tierra de Israel, prometida a sus antepasados. Durante cuarenta años, caminaron por el desierto del Sinaí, donde se formaron como nación y recibieron los Diez Mandamientos, dando forma y contenido a su fe monoteísta. El éxodo de Egipto (1300 AEC) dejó una marca fundamental en el inconsciente colectivo del pueblo judío y se convirtió en símbolo de libertad y redención. Anualmente, en las festividades judías de Pésaj, Shavuot y Sucot, se conmemoran los eventos ocurridos en este período."
     ],
     "id": 3,
     "era": 1
   },
   {
     "date": "1273 AEC - 924 AEC",
-    "title": "Período de juízes e reis na Terra de Israel.",
+    "title": "Período de jueces y reyes en la Tierra de Israel",
     "content": [
-      "Depois da morte de Moisés, tomou a liderança do povo Josué (Yehoshua bin-Nun), que, diferentemente de Moisés, teve um papel, dentro de todos os outros, de líder militar. Sob seu comando o povo teve que conquistar a terra, na qual habitavam outros povos.",
-      "O primeiro território conquistado foi a cidade de Jericó, que se acredita ser a cidade mais antiga do mundo. Foram anos de guerra até que o povo de Israel conquistou grande parte da Terra de Israel, e com o tempo, foram se transformando em camponeses e artesãos, alcançando um certo nível de consolidação social e econômica.",
-      "Períodos de relativa paz foram interrompidos por tempos de guerra, em os que o povo se agrupou atrás de líderes conhecidos como “juízes”, escolhidos por suas capacidades políticas e militares, assim como por sua habilidade de liderança. Curiosidade: Jericó foi também o primeiro território a ser dado aos palestinos por Israel como parte dos Acordos de Oslo em 1994."
+      "La conquista de Jericó",
+      "Después de la muerte de Moisés, Josué (Yehoshúa bin-Nun) asumió el liderazgo del pueblo. A diferencia de Moisés, Josué desempeñó un papel, entre otros, como líder militar. Bajo su mando, el pueblo tuvo que reconquistar la tierra, entonces habitada por otros pueblos. El primer territorio conquistado fue la ciudad de Jericó, que, según excavaciones arqueológicas modernas, es una de las ciudades más antiguas de la civilización, y sirve como escenario de diversos episodios descritos en los textos sagrados de las tres religiones monoteístas.",
+      "Con el paso de los años, a través de procesos de transformación y consolidación social, política y económica, otros territorios de la Tierra de Israel fueron conquistados por el pueblo. Períodos de relativa paz fueron interrumpidos por tiempos de guerra, en los que el pueblo se agrupaba detrás de líderes conocidos como \"jueces\", elegidos por sus capacidades políticas y militares, así como por su habilidad de liderazgo.",
+      "Una curiosidad es que Jericó fue también el primer territorio entregado a los palestinos por Israel como parte de los Acuerdos de Oslo en 1994."
     ],
     "id": 4,
     "era": 1
   },
   {
     "date": "950 AC",
-    "title": "A divisão das 12 tribos",
+    "title": "La división de las 12 tribus",
     "content": [
-      "Após a conquista definitiva do território, Josué (Yehoshua), antes de sua morte, divide o território entre as 12 tribos de Israel, tradicionalmente consideradas descendentes dos doze filhos de Yaacov (também conhecido como Israel), que eram Rúben, Simeão, Levi, Judá, Dã, Naftali, Gade, Aser, Issacar, Zebulom, José e Benjamim.",
-      "A distribuição foi feita com base em sorteios e considerava a quantidade de terra necessária para a população de cada tribo, bem como, segundo relatos da fé judaica, as instruções divinas dadas a Yehoshua.",
-      "Várias descobertas em sítios arqueológicos da região, como Jericó, Ai e Hazor, ajudam a validar eventos descritos na narrativa bíblica da conquista da Terra Prometida e corroboram a presença judaica na região nesse período."
+      "Después de la conquista definitiva del territorio, Josué, antes de su muerte, divide la tierra entre las 12 tribus de Israel, tradicionalmente consideradas descendientes de los doce hijos de Jacob (también conocido como Israel): Rubén, Simeón, Leví, Judá, Dan, Neftalí, Gad, Aser, Isacar, Zabulón, José y Benjamín. La distribución se hizo mediante sorteos, tomando en cuenta la cantidad de tierra necesaria para la población de cada tribu y, según los relatos de la fe judía, las instrucciones divinas dadas a Josué. Diversos hallazgos en sitios arqueológicos de la región, como Jericó, Ay y Hazor, contribuyen a validar los eventos descritos en la narrativa bíblica de la conquista de la Tierra Prometida y corroboran la presencia judía en la región en ese período.",
+      "Durante este tiempo, que duró aproximadamente 300 años, el pueblo judío no contaba con una autoridad centralizada, sino que era guiado y liderado, especialmente en momentos de dificultad, por jueces (como Débora, Sansón, Otoniel, Gedeón y Jefté)."
     ],
     "id": 5,
     "era": 1
   },
   {
     "date": "1046 AC-1006 AC",
-    "title": "Os reinos: Saul",
+    "title": "Los reinos: Saul",
     "content": [
-      "A fraqueza inerente à sua organização tribal, criou a necessidade de um governante que pudesse unir as tribos e transformar a sua posição numa posição permanente, cuja autoridade fosse sucedida por herança.",
-      "Assim, começa o período monárquico no território. O primeiro rei, Saul (Saul) (c. 1020 a.e.c.), marcou a fase da reorganização do reino - que agora já não é mais tribal - e o estabelecimento de uma monarquia plena por seu sucessor, David. O Rei David (1004-965 a.e.c.), converteu seu reino numa importante potência da região, por meio de exitosas expedições militares, infringindo a derrota final aos filisteus, assim como através de uma rede de amistosas alianças com os reinos vizinhos.",
-      "No interior, uniu as doze tribos de Israel em um só reino, colocando Jerusalém e a monarquia no centro da vida nacional do país. David foi sucedido por seu filho Salomão (965- 930 a.e.c.), que reforçou ainda mais o reino.",
-      "Por meio de tratados com os reis vizinhos e matrimônios com fins políticos, Shlomo assegurou a tranquilidade dentro das fronteiras do reino, e o igualou às grandes potências da época. No segundo mês do quarto ano de seu reinado, foi iniciada a construção do Primeiro Templo - que só terminou em 924 a.e.c."
+      "La debilidad inherente a su organización tribal, debido a una mayor susceptibilidad a ataques enemigos (que ya eran frecuentes) y a los conflictos internos entre las lideranzas de cada tribu, creó la demanda de un gobernante que pudiera unir a las tribus y transformar su cargo en una posición permanente, cuya autoridad fuera hereditaria.",
+      "Así comienza el período monárquico en el territorio. El primer rey, Saúl (Shaúl, 1020 AEC), marcó la fase de la reorganización del reino, que ahora ya no era tribal, y del establecimiento de una monarquía plena bajo su sucesor, David. El rey David (David HaMelej, 1004-965 AEC) convirtió su reino en una importante potencia regional mediante exitosas expediciones militares, logrando la derrota final de los filisteos, y mediante una red de alianzas amistosas con los reinos vecinos. En el interior, unificó a las doce tribus de Israel en un solo reino, estableciendo Jerusalén y la monarquía en el centro de la vida nacional del país. David fue sucedido por su hijo Salomón (965-930 AEC), quien fortaleció aún más el reino. A través de tratados con los reyes vecinos y matrimonios con fines políticos, Shlomó aseguró la tranquilidad dentro de las fronteras del reino, igualándolo a las grandes potencias de la época. En el segundo mes del cuarto año de su reinado, comenzó la construcción del Primer Templo, que se completó en 924 AEC."
     ],
     "id": 6,
     "era": 1
   },
   {
     "date": "930 AEC",
-    "title": "A divisão dos reinos:",
+    "title": "La división de los reinos:",
     "content": [
-      "O fim do reinado de Salomão foi marcado por descontentamento por parte da população, que teve que pagar muito pelos seus ambiciosos planos. Ao mesmo tempo, o tratamento preferencial à sua própria tribo irritava as outras, resultando num crescente antagonismo entre a monarquia e os separatistas tribais.",
-      "Após a morte de Salomão (930 AEC), uma insurreição aberta, contra seu filho, o sucessor Roboão levou ao rompimento das dez tribos do norte, que proclamaram Jeroboão como seu rei, e à divisão do país num reino do norte, Israel, e um reino do sul, Judá - este último no território das tribos de Judá e Benjamim.",
-      "O Reino de Israel, com a sua capital Samaria, durou mais de 200 anos com 19 reis, enquanto o Reino de Judá foi governado a partir de Jerusalém durante 400 anos pelo mesmo número de reis, da linhagem de David.",
-      "A expansão dos impérios Assírio e Babilônio causou a dominação de Israel e, depois, de Judá.",
-      "O Reino de Israel foi destruído pelos Assírios (722 AEC) e o seu povo foi levado ao exílio e ao esquecimento. Mais de cem anos depois, a Babilônia conquistou o Reino de Judá, exilando a maioria dos seus habitantes e destruindo Jerusalém e o Templo (586 AEC)."
+      "El final del reinado de Salomón estuvo marcado por el descontento de la población, que tuvo que pagar mucho por sus ambiciosos planes. Al mismo tiempo, el tratamiento preferencial hacia su propia tribu irritaba a las demás, lo que resultó en un creciente antagonismo entre la monarquía y los separatistas tribales. Tras la muerte de Salomón (930 AEC), una insurrección abierta contra su hijo, el sucesor Roboam, llevó al rompimiento de las diez tribus del norte, que proclamaron a Jeroboam como su rey, y a la división del país en un reino del norte, Israel, y un reino del sur, Judá, este último en el territorio de las tribus de Judá y Benjamín.",
+      "El Reino de Israel, con su capital en Samaria, duró más de 200 años bajo la autoridad de 19 reyes, mientras que el Reino de Judá fue gobernado desde Jerusalén durante 400 años por el mismo número de reyes, todos de la línea de David. La expansión de los imperios asirio y babilónico causó la dominación de Israel y, posteriormente, de Judá.",
+      "El Reino de Israel fue destruido por los asirios (722 AEC) y su pueblo fue llevado al exilio y al olvido. Más de cien años después, Babilonia conquistó el Reino de Judá, exiliando a la mayoría de sus habitantes y destruyendo Jerusalén y el Templo (586 AEC)."
     ],
     "id": 7,
     "era": 1
   },
   {
     "date": "722 AEC - 598 AEC",
-    "title": "Período Assírio",
+    "title": "Período Asirio",
     "content": [
-      "O Império Neoassírio (quarto e penúltimo estágio da história assíria antiga) teve um sucesso sem precedentes, que não se deveu apenas à capacidade da Assíria de se expandir, mas também, e talvez mais importante, à sua capacidade de incorporar com eficiência as terras conquistadas em seu sistema administrativo.",
-      "A política de governo direto de Tiglate-Pileser (745–727 a.C), em vez de governo por meio de Estados vassalos, trouxe mudanças importantes para o Estado assírio e sua economia, em vez de tributos, o império passou a depender mais dos impostos arrecadados pelos governadores provinciais. E seu filho e sucesso o Rei Shalmaneser V (727-722 a.C.), foi o responsável pela conquista do Reino de Israel e tornar o Rei Oséias seu vassalo.",
-      "Porém o rei assírio pegou o rei Oséias em um ato de traição, ele não estava pagando os impostos e tributos por anos, e portanto ele o prendeu e após 9 anos de mandato, o rei Assirio capturou Samaria e invadiu, conquistando definitivamente o Reino de Israel. Ele deportou os israelitas para a Assíria e os estabeleceu em Hala, no rio Havor, no rio Gozã e nas cidades de Madai.",
-      "Parte do uso de uma política de reassentamento, em que algumas porções das populações de terras conquistadas foram reassentadas no coração assírio e em províncias subdesenvolvidas.",
-      "Essa política serviu tanto para desintegrar as identidades locais (tornando as regiões locais menos propensas à revolta), e isto gerou o fenômeno das Dez Tribos perdidas de Israel."
+      "El Imperio Neoasirio (cuarta y penúltima etapa de la historia asiria antigua) tuvo un éxito sin precedentes, no solo por su capacidad de expandirse, sino también, y quizás principalmente, por su habilidad para incorporar de manera eficiente las tierras conquistadas en su sistema administrativo. La política de gobierno directo de Tiglat-Pileser (745–727 AEC), en lugar de la organización a través de estados vasallos, trajo cambios importantes para el estado asirio, tanto social como económicamente. Sin embargo, fue su hijo y sucesor, el Rey Salmanasar V (727-722 AEC), quien se encargó de la conquista del Reino de Israel, convirtiendo al Rey Oseas en su vasallo.",
+      "Fue solo después de que el rey Oseas fue atrapado en un acto de traición (por no haber pagado los impuestos y tributos durante años) y encarcelado durante nueve años, que el rey asirio capturó Samaria, conquistando definitivamente el Reino de Israel. Deportó a los israelitas a Asiria y los estableció en Halah, junto al río Habor, en el río Gozán y en las ciudades de Madai, con el fin de desintegrar las identidades locales (haciendo que las regiones locales fueran menos propensas a la revuelta), reforzando así el fenómeno de las diez tribus perdidas de Israel."
     ],
     "id": 8,
     "era": 1
   },
   {
     "date": "598 AEC - 538 AEC",
-    "title": "Exílio Babilônico",
+    "title": "Exilio Babilónico",
     "content": [
-      "O Rei Nabucodonosor II da Babilônia atacou Jerusalém em 598 aec, saqueando o Templo e promovendo um exílio de mais de 10 mil judeus. Em 586 aec, ocorreu outro ataque, resultando na deportação de mais de 40 mil pessoas e na destruição completa do Templo de Salomão. Esse período marcou o fim do Reino de Judá e o início do exílio na Babilônia.",
-      "Na Babilônia, os judeus foram assentados ao redor de Nippur, desfrutando de autonomia comunitária e liberdade religiosa. Integraram-se à vida econômica do império, mantendo sua identidade judaica. Apesar da adoção do aramaico, não se mesclaram com as populações pagãs. Prosperaram em diversas ocupações, tornando-se comerciantes, financistas e ocupando lugares de destaque na corte babilônica, como Daniel, Chanakya, Michael e Azarya, descendentes da família real do Reino de Judá, assim como Nehemias.",
-      "O Beit Midrash substituiu o Templo, e as observâncias religiosas, especialmente a oração e o jejum, tomaram destaque. A sinagoga tornou-se essencial na vida judaica, simbolizando a democracia espiritual e religiosa.",
-      "Influenciados por Ezequiel, os judeus ergueram casas de estudo na Babilônia, mantendo viva a tradição judaica. O estudo da Torá tornou-se mais acessível nas sinagogas, onde eram lidos trechos nos dias de Shabat e festas religiosas, persistindo até hoje.",
-      "Muitos judeus na Babilônia prosperaram, mas os sábios instituíram tradições para evitar que os mais pobres se sentissem humilhados, incluindo práticas relacionadas ao enterro."
+      "El Rey Nabucodonosor II de Babilonia atacó Jerusalén en 598 AEC, saqueando el Templo y promoviendo un exilio de más de 10,000 judíos. En 586 AEC, ocurrió otro ataque que resultó en la deportación de más de 40,000 personas y en la destrucción completa del Templo de Salomón. Este período marcó el fin del Reino de Judá y el inicio del exilio en Babilonia.",
+      "En Babilonia, los judíos fueron asentados alrededor de Nipur, disfrutando de autonomía comunitaria y libertad religiosa. Se integraron en la vida económica del imperio y mantuvieron su identidad judía. A pesar de la adopción del arameo, no se mezclaron con las poblaciones paganas. Prosperaron en diversas ocupaciones, convirtiéndose en comerciantes, financieros y ocupando lugares destacados en la corte babilónica, como Daniel, Chanania, Misael y Azarías, descendientes de la familia real del Reino de Judá, así como Nehemías.",
+      "El Beit Midrash reemplazó al Templo, y las observancias religiosas, especialmente la oración y el ayuno, tomaron un papel central. La sinagoga se convirtió en esencial en la vida judía, simbolizando la democracia espiritual y religiosa. Influenciados por Ezequiel, los judíos erigieron casas de estudio en Babilonia, manteniendo viva la tradición judía."
     ],
     "id": 9,
     "era": 1
   },
   {
     "date": "538 AEC",
-    "title": "Retorno dos judeus à Terra de Israel - Rei Persa Ciro II, o Grande",
+    "title": "Retorno de los judíos a la Tierra de Israel - Rey Persa Ciro II, el Grande",
     "content": [
-      "Em 539 a.E.C., o rei persa Ciro II, o Grande, entra vitorioso na Babilônia. Menos de um ano mais tarde, ele emite um decreto permitindo aos judeus retornar a Jerusalém e reconstruir o Templo. O rei os autorizou ainda a levar os objetos sagrados do Templo que os babilônios haviam capturado.",
-      "Foi um momento de júbilo para os judeus, que haviam sonhado com a volta à Terra de Israel e a reconstrução do Templo. Mas quantos deles iriam voltar? Na Babilônia, viviam confortavelmente. Além disso, sabiam que o retorno à Terra significaria enfrentar inúmeras dificuldades. Os judeus que ainda viviam na Terra de Israel – os que não haviam sido levados cativos – eram pobres e, portanto, seria necessário levar grandes somas para a reconstrução de Jerusalém e do Templo.",
-      "Em 538 a.E.C., aproximadamente 42 mil judeus deixaram a Babilônia rumo a Jerusalém, liderados por Zorobabel. Levavam consigo seus bens e as doações de ouro e prata feitas pela comunidade judaica e pelo rei. Ao chegar na Terra de Israel, porém, a alegria de ter retornado à sua Terra se dissipou diante da dura realidade vigente. Os anos que se seguiram foram marcados por conflitos, desentendimentos e agressões dos habitantes não judeus, que não viam com bons olhos a volta dos judeus à Eretz Israel.",
-      "Finalmente, no ano 516 a.E.C, praticamente 21 anos após o retorno, a construção do Segundo Templo foi concluída. A inauguração ocorreu, conforme as profecias, 70 anos depois que o Primeiro Templo fora arrasado."
+      "En 539 AEC, el rey persa Ciro II, el Grande, entra victorioso en Babilonia. Menos de un año después, emite un decreto que permite a los judíos regresar a Jerusalén y reconstruir el Templo. El rey también les autorizó a llevar los objetos sagrados del Templo que los babilonios habían capturado.",
+      "Fue un momento de júbilo para los judíos, que habían soñado con volver a la Tierra de Israel y reconstruir el Templo. Pero, ¿cuántos de ellos regresarían? En Babilonia, vivían cómodamente. Además, sabían que el regreso a la Tierra significaría enfrentar numerosas dificultades. Los judíos que aún vivían en la Tierra de Israel —los que no habían sido llevados cautivos— eran pobres y, por lo tanto, sería necesario llevar grandes sumas para la reconstrucción de Jerusalén y del Templo.",
+      "En 538 AEC, aproximadamente 42,000 judíos dejaron Babilonia con rumbo a Jerusalén, liderados por Zorobabel. Llevaban consigo sus bienes y las donaciones de oro y plata hechas por la comunidad judía y por el rey. Sin embargo, al llegar a la Tierra de Israel, la alegría de haber regresado se disipó ante la dura realidad existente. Los años que siguieron estuvieron marcados por conflictos, desavenencias y agresiones de los habitantes no judíos, que no veían con buenos ojos el regreso de los judíos a la Tierra de Israel. Finalmente, en el año 516 AEC, prácticamente 21 años después del retorno, se completó la construcción del Segundo Templo. La inauguración ocurrió, según las profecías, 70 años después de que el Primer Templo fuera destruido."
     ],
     "id": 10,
     "era": 1
@@ -120,23 +110,19 @@
     "date": "332 AEC - 164 AEC",
     "title": "Período Helenístico",
     "content": [
-      "A conquista do Oriente Próximo por Alexandre Magno, nos anos de 333-331 a.C., deu início ao período helenístico do Oriente e de todo o mundo antigo em torno do Mar Mediterrâneo, o que incluía a Judéia.",
-      "Com a morte precoce de Alexandre, que morreu sem deixar herdeiros, seus generais, os diádocos, terminaram por lutar na tentativa de obter supremacia sobre o império deixado, mas mesmo assim, para os judeus seriam mais anos de influência helenística. Entre 320-198 a.C. a terra da Judeia fica sob domínio Ptolomeu e depois de 198-167 a.C. sob domínio selêucida, depois que  Antíoco III do Império Selêucida e Filipe V da Macedônia fizeram um pacto para apreender as posses ptolomaicas fora do Egito.",
-      "A política territorial selêucida era exatamente oposta à dos ptolomeus: os soberanos preferiam grandes unidades territoriais, segundo o modelo das sátrapas persas, divididas em províncias e distritos numerosos e cambiantes. Ao mesmo tempo, avançava vigorosamente o processo de helenização do Oriente, sustentado pelo número crescente de cidades gregas com um elevado grau de autonomia. Este processo, que perpassa pela difusão da cultura, língua e população grega, iniciado por Alexandre Magno viria a encontrar um obstáculo: o povo judeu e a cultura judaica, desde sempre muito enraizada e tradicional.",
-      "É inegável os judeus tenham sofrido diversas influências helenísticas, porém sempre foram um entrave para os imperadores. Porém essa relação problemática alcançou seu apogeu quando Antíoco IV Epífanes (175-164) apareceu em Jerusalém, no contexto da 6ª Guerra Síria contra Ptolomeu VI Filometor (181-145), para acabar com os distúrbios que aí aconteciam.",
-      "Ele conquistou a cidade duas vezes, em 169 e 168 a.C., depois que os romanos o impediram, por ultimato, de prosseguir com a guerra contra o Egito. Jerusalém tornou-se uma colônia militar helenística e assim iniciaram perseguições aos judeus fiéis à Torá e, para coroar tudo, no dia 6 de dezembro de 167 a.C. Antíoco IV mandou erigir um altar a Zeus olímpico em cima do grande altar de sacrifícios do Templo: a \"abominação da desolação\" do Livro de Daniel (Dn 11.31; 12.11). Isto foi o sinal para a eclosão da Revolta dos Macabeus."
+      "La conquista del Próximo Oriente por Alejandro Magno, entre los años 333 y 331 AEC, dio inicio al período helenístico del Oriente y de todo el mundo antiguo en torno al Mar Mediterráneo, lo que incluía a Judea. Con la muerte prematura de Alejandro, que murió sin dejar herederos, sus generales, los diádocos, lucharon por obtener la supremacía sobre el imperio dejado, pero, aun así, para los judíos fueron más años de influencia helenística. Entre 320 y 198 AEC, la tierra de Judea quedó bajo dominio de los Ptolomeos y, después, entre 198 y 167 AEC, bajo dominio seléucida, tras el pacto entre Antíoco III del Imperio Seléucida y Felipe V de Macedonia para apoderarse de las posesiones ptolomaicas fuera de Egipto.",
+      "La política territorial seléucida era exactamente opuesta a la de los Ptolomeos: los soberanos preferían grandes unidades territoriales, según el modelo de las sátrapas persas, divididas en numerosas y cambiantes provincias y distritos. Al mismo tiempo, avanzaba vigorosamente el proceso de helenización del Oriente, que se caracterizaba por la difusión de la cultura, lengua y población griega, iniciado por Alejandro Magno, y que encontraría un obstáculo: el pueblo judío y la cultura judía, que siempre habían estado muy arraigados y eran tradicionales. Es innegable que los judíos sufrieron diversas influencias helenísticas, sin embargo, siempre fueron un obstáculo para los emperadores.",
+      "Esta relación conflictiva alcanzó su apogeo cuando Antíoco IV Epífanes (175-164) apareció en Jerusalén, en el contexto de la sexta Guerra Siria contra Ptolomeo VI Filometor (181-145), para acabar con los disturbios que allí ocurrían. Conquistó la ciudad dos veces, en 169 y 168 AEC, después de que los romanos le impidieron, por ultimátum, continuar con la guerra contra Egipto. Jerusalén se convirtió en una colonia militar helenística y así comenzaron las persecuciones a los judíos fieles a la Torá, cuyo detonante ocurrió el 6 de diciembre de 167 AEC, cuando Antíoco IV ordenó erigir un altar a Zeus Olímpico sobre el gran altar de sacrificios del Templo: la \"abominación de la desolación\" del Libro de Daniel (Dn 11.31; 12.11). Este fue el señal para el estallido de la Revuelta de los Macabeos."
     ],
     "id": 11,
     "era": 1
   },
   {
     "date": "165 AEC - 64 AEC",
-    "title": "Hasmoneus (Dinastia dos Macabeus)",
+    "title": "Hasmoneos (Dinastía de los Macabeos)",
     "content": [
-      "Em 175 a.C., Antíoco IV Epifânio chegou ao trono do Império Selêucida e iniciou uma campanha de assimilação contra os habitantes da Judeia. Num esforço de unificar os elementos Gregos do seu império, Antíoco determinou a destruição da fé Judaica e a helenização dos Judeus.",
-      "Um Édito foi publicado impondo os rituais religiosos aos Judeus em Jerusalém, sob pena de morte. No lugar delas, ele instalou uma estátua de Zeus no local do Templo e ordenou que se sacrificasse suínos ali. Para os judeus isso era a “abominação da desolação”. Esta foi a última gota e assim eclodiu a guerra religiosa. O sinal partiu da pequena localidade de Modiin. Lá vivia o sacerdote Matatias, da dinastia de Hasmon, com seus cinco filhos, João, Simão, Judas, Eleazar e Jônatas. Matatias não apenas se recusou a oferecer sacrificios pagãos, mas também matou um judeu que o fez e o funcionário selêucida que o havia exigido (1 Mac 2.1-26). Como não podia permanecer mais em Modin, em 166 a.C. ele foi para as montanhas e para o Deserto de Judá, com seus filhos e com outros seguidores, cujo número não parava de aumentar.",
-      "A partir de lá, começou a guerrilha contra tropas selêucidas e judeus apóstatas (1 Mac 2.27-48): uma guerra na qual seu filho Judas, com o apelido Macabeu, \"o homem do martelo\", se distinguiu, desde o início, de forma especial.  Quando Matatias faleceu, ainda no ano de 166, Judas Macabeu tornou-se o cabeça do movimento que, por causa dele, é chamado de movimento dos macabeus, revolta macabéia. Judas era um guerreiro rude, um homem semelhante a um leão em suas ações e como “um leãozinho que se atira urrando sobre sua presa'' (1 Mac 3,4), contudo, simultaneamente, também um político de nível, que conduziu à vitória o movimento por ele liderado, acabando com o sacrilégio religioso de Antíoco IV.  Eles conseguiram uma vitória, reconquistaram Jerusalém, recapturaram o Templo Sagrado de Jerusalém, purificaram-no, reconstruíram o Altar e retomaram os serviços religiosos. Uma parte fundamental dos serviços diários no Templo era o acender da Menorá com azeite de oliva ritualmente puro. Quando conquistaram o Templo, os Macabeus se depararam com um único jarro de azeite que não estivesse impuro. Acenderam a Menorá com o conteúdo desse único recipiente. Devido à pouca quantidade, sua luz deveria ter durado um único dia, mas, milagrosamente, ardeu por oito dias.",
-      "Esse era o tempo necessário para a produção de mais azeite ritualmente puro. Os judeus viram nesse fenômeno sobrenatural - um suprimento de um dia durar oito dias - um sinal Divino de que Sua Providência havia intervindo em favor dos Macabeus na luta contra o poderoso exército selêucida. Para comemorar tais eventos, nossos Sábios instituíram a festa de Chanucá, que dura oito dias. Nós a acendemos  a Chanukiá, em nossos lares, durante oito noites, adicionando uma vela extra a cada noite. Essa história é retratada nos dois Livros dos Macabeus (não fazem parte do Tanach). Os judeus conseguiram independência na Judeia, sob domínio dos Hasmoneus, que durou entre 140-63 aec. Porém, cerca de um século após a revolução dos macabeus Pompeu invadiu Israel em 63 aec, que então passou para o domínio romano."
+      "En el 175 AEC, Antíoco IV Epífanes ascendió al trono del Imperio Seléucida y comenzó una campaña de asimilación contra los habitantes de Judea. En un esfuerzo por unificar los elementos griegos de su imperio, Antíoco determinó la destrucción de la fe judía y la helenización de los judíos. Se publicó un edicto imponiendo ritos religiosos a los judíos en Jerusalén, bajo pena de muerte. En su lugar, instaló una estatua de Zeus en el lugar del Templo y ordenó que se sacrificaran cerdos allí. Estos actos dieron inicio a la Revuelta de los Macabeos, iniciada por el sacerdote Matatías y sus cinco hijos. Cuando Matatías falleció, aún en el año 166, su hijo Judas Macabeo se convirtió en el líder del movimiento y condujo a la victoria, poniendo fin al sacrilegio religioso de Antíoco IV.",
+      "Reconquistaron Jerusalén, recapturaron el Templo Sagrado, lo purificaron, reconstruyeron el altar y reanudaron los servicios religiosos, restableciendo su independencia en Judea bajo el dominio de los Hasmoneos, que duró entre 140 y 63 AEC. Sin embargo, alrededor de un siglo después, en el año 63 AEC, Pompeyo invadió Israel y el territorio quedó bajo dominio romano."
     ],
     "id": 12,
     "era": 1
